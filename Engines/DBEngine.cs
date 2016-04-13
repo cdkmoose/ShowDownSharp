@@ -28,7 +28,7 @@ namespace DS.Showdown.Engines
 
         public League LoadLeague2(int leagueID)
         {
-            DbUtils.SetPath(@"Data Source=D:\Projects\showdownsharp\db\showdown.db");
+            DbUtils.SetPath(@"Data Source=D:\github-repos\ShowDownSharp\db\showdown.db");
             League league = new League();
             AddAllPlayers(league);
             foreach (Team team in GetTeams2(leagueID, league))
@@ -41,7 +41,7 @@ namespace DS.Showdown.Engines
 
         public League LoadLeague3(int leagueID)
         {
-            DbUtils.SetPath(@"Data Source=D:\Projects\showdownsharp\db\showdown.db");
+            DbUtils.SetPath(@"Data Source=D:\github-repos\ShowDownSharp\db\showdown.db");
             League league = new League();
 
             AddAllPlayers2(league);

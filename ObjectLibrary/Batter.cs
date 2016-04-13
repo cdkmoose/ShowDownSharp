@@ -248,7 +248,7 @@ namespace DS.Showdown.ObjectLibrary
                 i++;
             }
 
-            return i < 30 ? i : 0;
+            return i < 30 ? i + 1 : 0;
         }
         
         public override string KeyStatLine

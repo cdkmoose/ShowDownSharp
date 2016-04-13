@@ -60,7 +60,7 @@ namespace DS.Showdown.DbLibrary
                     }
                     else
                     {
-				        conn = new SQLiteConnection(@"Data Source=C:\Projects\showdownsharp\db\showdown.db");
+                        conn = new SQLiteConnection(@"Data Source=D:\github-repos\showdownsharp\db\showdown.db");
                     }
                 }
 

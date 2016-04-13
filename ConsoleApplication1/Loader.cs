@@ -18,7 +18,7 @@ namespace DS.Showdown.CardLoader
 
         public Loader()
         {
-            DbUtils.SetPath(@"Data Source=C:\Projects\showdownsharp\db\showdown.db");
+            DbUtils.SetPath(@"Data Source=D:\Projects\showdownsharp\db\showdown.db");
 
             LoadSetCodes();
         }
@@ -96,10 +96,28 @@ namespace DS.Showdown.CardLoader
                 return Convert.ToInt16(result);
         }
 
-        public int ProcessFile(string fileName)
+        private int GetPlayerCount()
         {
-            name = fileName;
+            string playerCount;
+            int players = 0;
+
+            playerCount = DbUtils.ExecuteScalar("select count(*) from players;");
+            bool valid = Int32.TryParse(playerCount, out players);
+
+            return players;
+            
+        }
+
+        public int ProcessFile(string fileName, bool addingPlayers)
+        {
             int lineCount = 0;
+
+            if (addingPlayers == true) // adding new players to an exestinng db
+            {
+                lineCount = GetPlayerCount() + 1;
+            }
+
+            name = fileName;
             StreamReader data = new StreamReader(fileName);
             string line;
 
@@ -170,7 +188,7 @@ namespace DS.Showdown.CardLoader
 
             // year, set, number, team
 
-            sql = string.Format("insert into card_info values ({0}, '{1}', '{2}', '{3}', '{4}');",
+            sql = string.Format("insert into card_info values ({0}, '20{1}', '{2}', '{3}', '{4}');",
                 id, attrib[6], setCodes[attrib[2]], attrib[0], attrib[4]);
 
             DbUtils.ExecuteNonQuery(sql);
@@ -208,9 +226,9 @@ namespace DS.Showdown.CardLoader
             int rating2;
             int battingSide;
 
-            pos = GetPosition(attributes[10]);
+            pos = GetPosition(attributes[10].Trim());
             rating1 = GetRating(attributes[10]);
-            pos2 = GetPosition(attributes[11]);
+            pos2 = GetPosition(attributes[11].Trim());
             if (pos2 != Position.None)
             {
                 rating2 = GetRating(attributes[11]);

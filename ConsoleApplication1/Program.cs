@@ -15,10 +15,11 @@ namespace DS.Showdown.CardLoader
         {
             Loader ldr = new Loader();
 
-            //int result = ldr.ProcessFile(@"f:\projects\showdownsharp\showdown retro database modified.csv");
-            int res2 = ldr.ProcessPUErrors(@"c:\projects\showdownsharp\corrected 02.csv");
+            //int result = ldr.ProcessFile(@"D:\github-repos\showdownsharp\showdown retro database modified.csv", false);
+            //int res2 = ldr.ProcessPUErrors(@"D:\github-repos\showdownsharp\corrected 02.csv");
+            int result = ldr.ProcessFile(@"D:\github-repos\showdownsharp\MLB Showdown 2014.csv", true);
 
-            Console.WriteLine(res2.ToString() + " records.");
+            Console.WriteLine(result.ToString() + " records.");
 
             Console.ReadLine();
         }

@@ -250,6 +250,9 @@ namespace DS.Showdown.ObjectLibrary
 				case Position.SecondShort:
 					result = "2B/SS";
 					break;
+                case Position.Infielder:
+                    result = "IF";
+                    break;
 				case Position.LeftField:
 					result = "LF";
 					break;

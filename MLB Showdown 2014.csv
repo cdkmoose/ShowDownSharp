@@ -1,0 +1,601 @@
+#,Set,Set,Name,Team,Pts,Year,OB/C,Sp/IP,Pos,Pos1,Pos2,Arm,Icon,PU,SO,GB,FB,BB,1B,1B+,2B,3B,HR
+1,KJP,KJP,Jose Molina,Rays,5,14,5,17,C,C,,R,,-,1-2,3-5,6,7-8,9-17,18,19,-,20
+2,KJP,KJP,Michael Choice,Rangers,5,14,5,15,OF,OF,,R,,-,1,2-3,4,5-7,8-15,-,-,-,16-20
+3,KJP,KJP,Ryan Raburn,Indians,5,14,5,12,LF-RF,LF-RF,,R,,-,1,2,3-4,5-7,8-15,-,16-17,-,18-20
+4,KJP,KJP,Cesar Hernandez,Phillies,5,14,6,13,2B-3B,2B-3B,,R,,-,1,2-3,-,4-6,7-18,-,-,-,19-20
+5,KJP,KJP,Will Middlebrooks,Red Sox,5,14,5,13,3B,3B,,R,,-,1,-,2,3-6,7-15,-,16-18,-,19-20
+6,KJP,KJP,John Baker,Cubs,5,14,6,12,C,C,,R,,-,1-2,3,4-5,6-9,10-18,-,19-20,-,-
+7,KJP,KJP,Oscar Taveras,Cardinals,5,14,6,10,LF-RF,LF-RF,,R,,-,1,2-3,4,5-6,7-16,-,17-18,-,19-20
+8,KJP,KJP,Paul Konerko,White Sox,5,14,5,12,1B,1B,,R,,-,1,-,2-3,4-5,6-14,-,15-16,-,17-20
+9,KJP,KJP,Jordan Pacheco,Diamondbacks,5,14,7,12,C,C,,R,,-,1,2-3,4-5,6-7,8-16,-,17-20,-,-
+10,KJP,KJP,Javier Baez,Cubs,5,14,5,19,2B-SS,2B-SS,,R,,-,1-3,4,5-6,7-9,10-13,14,15,-,16-20
+11,KJP,KJP,J.P. Arencibia,Rangers,5,14,5,12,C 1B,C ,1B,R,,-,1-2,3,4-5,6-7,8-12,-,13-14,-,15-20
+12,KJP,KJP,Junior Lake,Cubs,5,14,5,18,OF,OF,,R,,-,1-2,3,4,5-6,7-12,13,14-15,16,17-20
+13,KJP,KJP,Cody Ross,Diamondbacks,5,14,7,12,LF-RF,LF-RF,,R,,-,1,2,3-4,5-7,8-17,-,18-19,-,20
+14,KJP,KJP,Skip Schumaker,Reds,5,14,6,15,2B OF,2B ,OF,R,,-,1,2-3,-,4-6,7-16,-,17-18,-,19-20
+15,KJP,KJP,Raul Ibanez,Royals,5,14,6,15,LF-RF,LF-RF,,R,,-,1-2,3-4,5-6,7-11,12-15,-,16,17,18-20
+16,KJP,KJP,Chris Parmelee,Twins,5,14,7,8,1B LF-RF,1B ,LF-RF,R,,-,1,2,3-4,5-7,8-16,-,17-18,-,19-20
+17,KJP,KJP,Mike Olt,Cubs,5,14,5,10,1B 3B,1B ,3B,R,,-,1-2,-,3-4,5-8,9-12,-,13-14,-,15-20
+18,KJP,KJP,Gerald Laird,Braves,5,14,6,12,C,C,,R,,-,1,2,3-5,6-8,9-17,-,18-20,-,-
+19,KJP,KJP,Reed Johnson,Marlins,5,14,6,10,LF-RF,LF-RF,,R,,-,1,2-3,4-5,6,7-13,-,14-18,-,19-20
+20,KJP,KJP,Bryan Holaday,Tigers,5,14,6,13,C,C,,R,,-,1,2-3,4-5,6-7,8-19,-,20,-,-
+21,KJP,KJP,Nate Schierholtz,Nationals,5,14,5,11,LF-RF,LF-RF,,R,,-,1,2,3-4,5-6,7-15,-,16,17,18-20
+22,KJP,KJP,Carlos Gonzalez,Rockies,5,14,7,17,LF-RF,LF-RF,,R,,-,1-2,3,4-5,6-8,9-14,-,15-17,-,18-20
+23,KJP,KJP,Mark Trumbo,Diamondbacks,5,14,7,11,1B LF-RF,1B ,LF-RF,R,,-,1-2,3,4-5,6-8,9-15,-,16-17,-,18-20
+24,KJP,KJP,Nick Swisher,Indians,5,14,6,12,1B,1B,,R,,-,1-2,-,3-4,5-8,9-14,-,15-17,-,18-20
+25,KJP,KJP,Don Kelly,Tigers,5,14,8,20,1B 3B,1B ,3B,R,,-,1,2,3-4,5-8,9-16,17-18,19-20,-,-
+26,KJP,KJP,Josh Thole,Blue Jays,5,14,8,8,C,C,,R,,-,1,2-4,5-6,7-10,11-18,-,19-20,-,-
+27,KJP,KJP,Matt Dominguez,Astros,5,14,5,11,3B,3B,,R,,-,1,-,2,3-5,6-15,-,16,-,17-20
+28,KJP,KJP,Nick Castellanos,Tigers,5,14,7,13,3B,3B,,R,,-,1,2,3-4,5-7,8-15,-,16-18,-,19-20
+29,KJP,KJP,Leury Garcia,White Sox,5,14,4,23,IF OF,IF ,OF,R,,-,1,2,-,3-4,5-12,13-15,16-18,-,19-20
+30,KJP,KJP,Domonic Brown,Phillies,5,14,6,17,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-14,15,16-17,-,18-20
+31,KJP,KJP,Kendrys Morales,Mariners,5,14,6,12,1B,1B,,R,,-,1,2-3,4-5,6-8,9-14,-,15-17,-,18-20
+32,KJP,KJP,Jonny Gomes,Athletics,5,14,8,12,LF RF,LF ,RF,R,,-,1-2,-,3-4,5-8,9-17,-,18,-,19-20
+33,KJP,KJP,Joaquin Arias,Giants,5,14,6,15,IF,IF,,R,,-,1,2-3,4,5-6,7-18,-,19-20,-,-
+34,KJP,KJP,Alberto Callaspo,Athletics,5,14,6,11,1B IF,1B ,IF,R,,-,-,1,2-3,4-7,8-16,-,17-18,-,19-20
+35,KJP,KJP,Ryan Doumit,Braves,5,14,5,16,LF RF,LF ,RF,R,,-,1-2,3,4-5,6-7,8-14,-,15,-,16-20
+36,KJP,KJP,Aaron Hill,Diamondbacks,5,14,6,14,2B 3B,2B ,3B,R,,-,1,-,2-3,4-5,6-14,-,15-17,-,18-20
+37,KJP,KJP,Wil Myers,Rays,5,14,7,18,LF RF,LF ,RF,R,,-,1-2,3,4-5,6-9,10-15,16,17-18,-,19-20
+38,KJP,KJP,A.J. Pierzynski,Cardinals,5,14,6,11,C,C,,R,,-,1,2,3,4-5,6-16,-,17-18,-,19-20
+39,KJP,KJP,Jon Singleton,Astros,5,14,6,11,1B,1B,,R,,-,1-2,3,4,5-9,10-14,-,15-16,-,17-20
+40,KJP,KJP,Allen Craig,Red Sox,5,14,6,14,1B,1B,,R,,-,1,2-3,4,5-7,8-15,-,16-17,-,18-20
+41,KJP,KJP,Justin Smoak,Mariners,5,14,6,10,1B,1B,,R,,-,1-2,3,4-5,6-9,10-14,-,15-17,-,18-20
+42,KJP,KJP,Chris Johnson,Braves,5,14,7,17,3B,3B,,R,,-,1-2,3-4,5,6-7,8-16,-,17-18,-,19-20
+43,KJP,KJP,Josh Rutledge,Rockies,5,14,8,10,2B SS,2B ,SS,R,,-,1-2,3,4-5,6-8,9-15,-,16-17,18-19,20
+44,KJP,KJP,Jay Bruce,Reds,5,14,6,19,LF RF,LF ,RF,R,,-,1-2,3,4,5-7,8-13,14,15-16,-,17-20
+45,KJP,KJP,Dayan Viciedo,White Sox,5,14,6,11,LF RF,LF ,RF,R,,-,1,2,3-4,5-6,7-14,-,15-16,-,17-20
+46,KJP,KJP,David Murphy,Indians,5,14,7,11,LF RF,LF ,RF,R,,-,-,1,2,3-6,7-15,-,16-18,-,19-20
+47,KJP,KJP,Ryan Howard,Phillies,5,14,7,12,1B,1B,,R,,-,1-2,3,4,5-8,9-16,-,17,-,18-20
+48,KJP,KJP,Hector Sanchez,Giants,5,14,5,9,C,C,,R,,-,1-2,3,4-5,6-7,8-14,-,15-17,-,18-20
+49,KJP,KJP,Garrett Jones,Marlins,5,14,7,11,1B LF-RF,1B ,LF-RF,R,,-,1,2,3-4,5-7,8-14,-,15-18,-,19-20
+50,KJP,KJP,Justin Ruggiano,Cubs,5,14,8,8,OF,OF,,R,,-,1,2,3,4-6,7-15,-,16-18,-,19-20
+51,KJP,KJP,Ryan Ludwick,Reds,5,14,7,10,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-15,-,16-18,-,19-20
+52,KJP,KJP,Mark Ellis,Cardinals,5,14,5,18,2B,2B,,R,,-,1,2,3,4-6,7-16,17,18-19,-,20
+53,KJP,KJP,Jedd Gyorko,Padres,5,14,6,14,2B,2B,,R,,-,1,2,3-4,5-7,8-15,-,16-17,-,18-20
+54,KJP,KJP,Brayan Pena,Reds,5,14,7,11,C 1B,C ,1B,R,,-,1,2-3,4-6,7-8,9-16,-,17-19,-,20
+55,KJP,KJP,Avisail Garcia,White Sox,5,14,7,18,LF RF,LF ,RF,R,,-,1,2-3,4,5-7,8-14,15,16-17,-,18-20
+56,KJP,KJP,Gaby Sanchez,Pirates,5,14,7,16,1B,1B,,R,,-,1,2,3-5,6-8,9-14,-,15-18,-,19-20
+57,KJP,KJP,Lyle Overbay,Brewers,5,14,8,16,1B,1B,,R,,-,1,2-3,4,5-9,10-17,-,18-19,-,20
+58,KJP,KJP,B.J. Upton,Braves,5,14,6,20,OF,OF,,R,,-,1,2,3,4-7,8-12,13-14,15-16,17,18-20
+59,KJP,KJP,Adrian Nieto,White Sox,5,14,7,8,C,C,,R,,-,1-2,3-4,5,6-8,9-16,-,17-18,-,19-20
+60,KJP,KJP,Chris Denorfia,Mariners,5,14,6,19,LF RF,LF ,RF,R,,-,1,2-3,4,5-7,8-14,15,16-17,18,19-20
+61,KJP,KJP,Tommy La Stella,Braves,5,14,8,14,2B,2B,,R,,-,1,2-3,4,5-8,9-18,-,19-20,-,-
+62,KJP,KJP,Billy Butler,Royals,5,14,8,12,1B,1B,,R,,-,1,2-3,4-5,6-8,9-15,-,16-18,-,19-20
+63,KJP,KJP,C.J. Cron,Angels,5,14,6,12,1B,1B,,R,,-,1,-,2-3,4-5,6-12,-,13-15,-,16-20
+64,KJP,KJP,Carlos Beltran,Yankees,5,14,7,15,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-14,-,15-17,-,18-20
+65,KJP,KJP,James Jones,Mariners,5,14,6,23,OF,OF,,R,,-,1,2-3,4,5-6,7-14,15-17,18,19-20,-
+66,KJP,KJP,Moises Sierra,White Sox,5,14,6,17,LF RF,LF ,RF,R,,-,1-2,3-4,5,6-7,8-13,14,15-17,18,19-20
+67,KJP,KJP,Ike Davis,Pirates,5,14,8,8,1B,1B,,R,,-,1,-,2,3-9,10-16,-,17-18,-,19-20
+68,KJP,KJP,Jeff Baker,Marlins,5,14,7,15,1B 2B,1B ,2B,R,,-,1,2-3,4,5-7,8-16,-,17-18,19,20
+69,KJP,KJP,Ryan Sweeney,Cubs,5,14,7,12,OF,OF,,R,,-,1,2,3-4,5-7,8-17,-,18-19,-,20
+70,KJP,KJP,Yunel Escobar,Rays,5,14,8,13,SS,SS,,R,,-,1,2-3,4-5,6-8,9-17,-,18-19,-,20
+71,KJP,KJP,Wilin Rosario,Rockies,5,14,7,14,C,C,,R,,-,1,2-3,4,5-6,7-13,-,14-17,-,18-20
+72,KJP,KJP,Gerardo Parra,Brewers,5,14,7,15,OF,OF,,R,,-,1,2-3,4,5-6,7-15,16,17-18,-,19-20
+73,KJP,KJP,Andre Ethier,Dodgers,5,14,8,13,OF,OF,,R,,-,1,2-3,4-5,6-8,9-16,-,17-18,19,20
+74,KJP,KJP,Danny Espinosa,Nationals,5,14,6,19,2B SS,2B ,SS,R,,-,1-2,3,4,5-6,7-13,14,15-16,17,18-20
+75,KJP,KJP,Drew Butera,Dodgers,5,14,6,12,C,C,,R,,-,1,2,3-5,6-9,10-16,-,17,-,18-20
+76,KJP,KJP,Ed Lucas,Marlins,5,14,6,15,2B SS,2B ,SS,R,,-,1,2-3,4,5-6,7-18,-,19,-,20
+77,KJP,KJP,Gregory Polanco,Pirates,5,14,7,20,LF RF,LF ,RF,R,,-,1,2-3,4,5-8,9-15,16-17,18,-,19-20
+78,KJP,KJP,Jarrod Saltalamacchia,Marlins,5,14,8,11,C,C,,R,,-,1-2,3,4-5,6-10,11-16,-,17-18,-,19-20
+79,KJP,KJP,Jordan Schafer,Twins,5,14,7,23,OF,OF,,R,,-,1,2-3,4,5-8,9-13,14-18,19-20,-,-
+80,KJP,KJP,Derek Jeter,Yankees,5,14,7,18,SS,SS,,R,,-,1,2-3,4,5-6,7-18,19,20,-,-
+81,KJP,KJP,Shin-Soo Choo,Rangers,5,14,8,11,LF RF,LF ,RF,R,,-,1,2,3,4-7,8-16,-,17-18,-,19-20
+82,KJP,KJP,Rougned Odor,Rangers,5,14,7,9,2B,2B,,R,,-,1,2-3,4-5,6-7,8-15,-,16-17,18,19-20
+83,KJP,KJP,Wilmer Flores,Mets,5,14,6,15,2B SS,2B ,SS,R,,-,1,2,3-4,5-6,7-14,-,15-17,-,18-20
+84,KJP,KJP,Andrew Romine,Tigers,5,14,6,21,2B SS,2B ,SS,R,,-,1,2-3,4,5-7,8-15,16-17,18,-,19-20
+85,KJP,KJP,Alex Presley,Astros,5,14,6,18,OF,OF,,R,,-,1,2,3-4,5-6,7-15,16,17,-,18-20
+86,KJP,KJP,Xander Bogaerts,Red Sox,5,14,7,11,SS 3B,SS ,3B,R,,-,1-2,3,4-5,6-8,9-15,-,16-18,-,19-20
+87,KJP,KJP,Josmil Pinto,Twins,5,14,7,10,C,C,,R,,-,1,2,3,4-8,9-15,-,16-17,-,18-20
+88,KJP,KJP,Jeff Mathis,Marlins,5,14,6,12,C,C,,R,,-,1-3,4,5-6,7-9,10-16,-,17-18,-,19-20
+89,KJP,KJP,Grady Sizemore,Phillies,5,14,7,18,LF RF,LF ,RF,R,,-,1,2,3-5,6-9,10-14,15,16-18,19,20
+90,KJP,KJP,Daniel Descalso,Cardinals,5,14,8,8,IF,IF,,R,,-,1,2,3-4,5-8,9-17,-,18-20,-,-
+91,KJP,KJP,A.J. Ellis,Dodgers,5,14,8,12,C,C,,R,,-,1,2-3,4-5,6-11,12-18,-,19,-,20
+92,KJP,KJP,Adam Dunn,Athletics,5,14,8,13,1B,1B,,R,,-,1,-,2-3,4-8,9-14,-,15-16,-,17-20
+93,KJP,KJP,Mike Moustakas,Royals,5,14,6,14,3B,3B,,R,,-,1,2,3-5,6-8,9-14,-,15-16,-,17-20
+94,KJP,KJP,Torii Hunter,Tigers,5,14,7,14,LF RF,LF ,RF,R,,-,-,1,2,3-5,6-14,-,15-17,-,18-20
+95,KJP,KJP,Rickie Weeks,Brewers,5,14,9,10,2B,2B,,R,,-,1-2,3-4,-,5-8,9-15,-,16-19,-,20
+96,KJP,KJP,Travis d'Arnaud,Mets,5,14,7,14,C,C,,R,,-,1,2,3-4,5-7,8-14,-,15-17,-,18-20
+97,KJP,KJP,Zach Walters,Indians,5,14,5,12,2B LF-RF,2B ,LF-RF,R,,-,1-2,3,4-5,6-8,9-11,-,12,-,13-20
+98,KJP,KJP,Mike Aviles,Indians,5,14,6,20,IF LF-RF,IF ,LF-RF,R,,-,1,2-3,4-5,6-7,8-14,15-16,17-18,-,19-20
+99,KJP,KJP,Darin Ruf,Phillies,5,14,7,12,1B LF-RF,1B ,LF-RF,R,,-,1-2,3,4,5-7,8-14,-,15-18,-,19-20
+100,KJP,KJP,Nick Hundley,Orioles,5,14,6,15,C,C,,R,,-,1-2,3,4-5,6-7,8-16,-,17,-,18-20
+101,KJP,KJP,Chris Coghlan,Cubs,5,14,9,16,LF RF,LF ,RF,R,,-,1,2,3-4,5-8,9-14,15,16-18,19,20
+102,KJP,KJP,Ben Revere,Phillies,5,14,8,23,OF,OF,,R,,-,-,1-3,4,5,6-15,16-18,19,20,-
+103,KJP,KJP,Daniel Robertson,Rangers,5,14,8,17,OF,OF,,R,,-,1,2-3,4,5-8,9-17,18,19-20,-,-
+104,KJP,KJP,Mike Zunino,Mariners,5,14,5,9,C,C,,R,,-,1,-,2-3,4-5,6-11,-,12-14,-,15-20
+105,KJP,KJP,Danny Valencia,Blue Jays,5,14,7,13,1B 3B,1B ,3B,R,,-,1-2,3,4-5,6-7,8-15,-,16-19,-,20
+106,KJP,KJP,Alex Rios,Rangers,5,14,7,18,LF RF,LF ,RF,R,,-,1,2,3,4-5,6-12,13-14,15-18,19,20
+107,KJP,KJP,Donovan Solano,Marlins,5,14,7,10,2B,2B,,R,,-,1,2-3,4,5-6,7-17,-,18-19,-,20
+108,KJP,KJP,Omar Infante,Royals,5,14,7,17,2B,2B,,R,,-,1,2,3-5,6-8,9-16,17,18-19,-,20
+109,KJP,KJP,Adeiny Hechavarria,Marlins,5,14,7,15,SS,SS,,R,,-,1,2-3,4,5-6,7-16,17,18-19,20,-
+110,KJP,KJP,Jean Segura,Brewers,5,14,6,19,SS,SS,,R,,-,1,2-3,-,4-5,6-14,15-16,17,18,19-20
+111,KJP,KJP,Elvis Andrus,Rangers,5,14,7,19,SS,SS,,R,,-,1,2-3,-,4-6,7-15,16-17,18-19,20,-
+112,KJP,KJP,Mark Reynolds,Brewers,5,14,6,17,1B 3B,1B ,3B,R,,-,1,-,2-3,4-7,8-14,15,-,-,16-20
+113,KJP,KJP,Jed Lowrie,Athletics,5,14,8,12,SS,SS,,R,,-,1,2,3-5,6-9,10-16,-,17-19,-,20
+114,KJP,KJP,Miguel Montero,Diamondbacks,5,14,8,9,C,C,,R,,-,1,2,3-4,5-8,9-16,-,17-18,-,19-20
+115,KJP,KJP,Jason Kipnis,Indians,5,14,7,21,2B,2B,,R,,-,1,2,3-4,5-8,9-15,16-17,18-19,-,20
+116,KJP,KJP,Eugenio Suarez,Tigers,5,14,7,15,SS,SS,,R,,-,1,-,2-3,4-6,7-16,-,17-18,-,19-20
+117,KJP,KJP,Gordon Beckham,Angels,5,14,6,16,IF,IF,,R,,-,1,2-3,4-5,6-7,8-14,-,15-17,-,18-20
+118,KJP,KJP,Eric Hosmer,Royals,5,14,7,15,1B,1B,,R,,-,1,2,3,4-6,7-14,-,15-18,-,19-20
+119,KJP,KJP,Oswaldo Arcia,Twins,5,14,7,11,LF RF,LF ,RF,R,,-,1-2,-,3-4,5-7,8-14,-,15-16,-,17-20
+120,KJP,KJP,Matt Kemp,Dodgers,5,14,9,15,OF,OF,,R,,-,1-2,3,4-5,6-9,10-14,15,16-18,-,19-20
+121,KJP,KJP,Everth Cabrera,Padres,5,14,6,20,SS,SS,,R,,-,1-2,3-5,-,6-7,8-14,15-16,17-18,19,20
+122,KJP,KJP,Juan Francisco,Blue Jays,5,14,7,9,1B 3B,1B ,3B,R,,-,1-3,4,5-6,7-9,10-13,-,14-16,-,17-20
+123,KJP,KJP,Marcus Semien,White Sox,5,14,7,17,2B 3B,2B ,3B,R,,-,1-2,3,4,5-7,8-15,16,17-18,-,19-20
+124,KJP,KJP,Luis Sardinas,Rangers,5,14,7,21,IF,IF,,R,,-,1,2-3,4,5-6,7-15,16-17,18-20,-,-
+125,KJP,KJP,Cody Asche,Phillies,5,14,7,11,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-14,-,15-18,-,19-20
+126,KJP,KJP,Asdrubal Cabrera,Nationals,5,14,7,18,2B SS,2B ,SS,R,,-,1,2,3-4,5-7,8-14,15,16-18,-,19-20
+127,KJP,KJP,Norichika Aoki,Royals,5,14,9,19,LF RF,LF ,RF,R,,-,1,2-4,5,6-8,9-16,17,18-19,20,-
+128,KJP,KJP,Jackie Bradley Jr.,Red Sox,5,14,6,19,OF,OF,,R,,-,1-2,3,4-5,6-8,9-15,16,17-19,-,20
+129,KJP,KJP,Ryan Zimmerman,Nationals,5,14,8,12,3B LF-RF,3B ,LF-RF,R,,-,1,2,3,4-7,8-13,-,14-18,-,19-20
+130,KJP,KJP,Alejandro De Aza,Orioles,5,14,7,18,OF,OF,,R,,-,1,2,3,4-6,7-13,14-15,16-17,18,19-20
+131,KJP,KJP,Ryan Braun,Brewers,5,14,8,17,LF-RF,LF-RF,,R,,-,1,2-3,4-5,6-8,9-12,13,14-16,17,18-20
+132,KJP,KJP,Jonathan Villar,Astros,5,14,6,22,SS,SS,,R,,-,1-2,3-4,5,6-8,9-11,12-14,15-17,18,19-20
+133,KJP,KJP,Casey McGehee,Marlins,5,14,9,14,3B,3B,,R,,-,1,2-3,4,5-8,9-18,-,19-20,-,-
+134,KJP,KJP,Pedro Alvarez,Pirates,5,14,7,17,3B,3B,,R,,-,1,2,3,4-7,8-15,16,17,-,18-20
+135,KJP,KJP,Eric Sogard,Athletics,5,14,7,20,2B SS,2B ,SS,R,,-,1,2-3,4-5,6-9,10-16,17-19,20,-,-
+136,KJP,KJP,Cameron Maybin,Padres,5,14,6,15,OF,OF,,R,,-,1,2-3,-,4-6,7-14,15,16-18,19,20
+137,KJP,KJP,Michael Bourn,Indians,5,14,7,16,OF,OF,,R,,-,1,2,3,4-6,7-15,16,17-18,19-20,-
+138,KJP,KJP,Mark Teixeira,Yankees,5,14,7,13,1B,1B,,R,,-,1,-,2-3,4-7,8-15,-,16,-,17-20
+139,KJP,KJP,Arismendy Alcantara,Cubs,5,14,5,17,2B OF,2B ,OF,R,,-,1,2,3,4-5,6-11,12,13-14,15,16-20
+140,KJP,KJP,Will Venable,Padres,5,14,6,17,OF,OF,,R,,-,1,2,3,4-6,7-15,16,17,-,18-20
+141,KJP,KJP,Bryce Harper,Nationals,5,14,8,13,OF,OF,,R,,-,1,-,2,3-7,8-16,-,17,-,18-20
+142,KJP,KJP,Lonnie Chisenhall,Indians,5,14,8,15,1B 3B,1B ,3B,R,,-,1,-,2-3,4-6,7-15,-,16-18,-,19-20
+143,KJP,KJP,Michael Morse,Giants,5,14,8,12,1B LF-RF,1B ,LF-RF,R,,-,1,2,3,4-6,7-14,-,15-17,-,18-20
+144,KJP,KJP,Emilio Bonifacio,Braves,5,14,7,22,IF OF,IF ,OF,R,,-,1,2-3,4,5-7,8-14,15-17,18-19,20,-
+145,KJP,KJP,James Loney,Rays,5,14,8,16,1B,1B,,R,,-,1,2,3,4-6,7-17,-,18-19,-,20
+146,KJP,KJP,Jose Lobaton,Nationals,5,14,6,12,C,C,,R,,-,1,2,3,4-6,7-16,-,17-18,-,19-20
+147,KJP,KJP,Munenori Kawasaki,Blue Jays,5,14,8,15,2B 3B,2B ,3B,R,,-,1,2-3,4,5-7,8-18,-,19-20,-,-
+148,KJP,KJP,Coco Crisp,Athletics,5,14,8,20,OF,OF,,R,,-,1,-,2-3,4-8,9-14,15-16,17-18,-,19-20
+149,KJP,KJP,Gregor Blanco,Giants,5,14,8,20,OF,OF,,R,,-,1,2,3-4,5-8,9-14,15-16,17-18,19,20
+150,KJP,KJP,Curtis Granderson,Mets,5,14,8,17,OF,OF,,R,,-,1,2,3-4,5-9,10-14,15,16-17,-,18-20
+151,KJP,KJP,Ichiro Suzuki,Yankees,5,14,8,21,LF RF,LF ,RF,R,,-,1,2-4,5,6-7,8-16,17-18,19-20,-,-
+152,KJP,KJP,Eric Campbell,Mets,5,14,8,18,1B 3B,1B ,3B,R,,-,1-2,3-4,5,6-8,9-15,16,17-18,-,19-20
+153,KJP,KJP,Colby Rasmus,Blue Jays,5,14,6,17,OF,OF,,R,,-,1,-,2-3,4-6,7-12,-,13-15,-,16-20
+154,KJP,KJP,Ramiro Pena,Braves,5,14,7,16,IF,IF,,R,,-,1,2,3-4,5-7,8-16,-,17-18,-,19-20
+155,KJP,KJP,Rajai Davis,Tigers,5,14,8,22,OF,OF,,R,,-,1,2-3,4-5,6-7,8-12,13-15,16-18,19,20
+156,KJP,KJP,Yangervis Solarte,Padres,5,14,8,11,2B 3B,2B ,3B,R,,-,-,1,2-3,4-7,8-16,-,17-18,-,19-20
+157,KJP,KJP,Matt Joyce,Rays,5,14,9,9,LF RF,LF ,RF,R,,-,1-2,3,4-5,6-10,11-17,-,18-19,-,20
+158,KJP,KJP,Chris Young,Yankees,5,14,7,18,LF RF,LF ,RF,R,,-,1,2,3-5,6-9,10-13,14,15-17,-,18-20
+159,KJP,KJP,Brandon Hicks,Giants,5,14,6,10,2B,2B,,R,,-,1-2,-,3-4,5-9,10-15,-,16,-,17-20
+160,KJP,KJP,Yasmani Grandal,Padres,5,14,8,16,C 1B,C ,1B,R,,-,1-2,3,4,5-9,10-15,-,16-17,-,18-20
+161,KJP,KJP,Wilson Ramos,Nationals,5,14,7,12,C,C,,R,,-,1,2-4,5,6-7,8-15,-,16-17,-,18-20
+162,KJP,KJP,Eric Young Jr.,Mets,5,14,7,23,LF RF,LF ,RF,R,,-,1,2-4,5,6-8,9-13,14-17,18-19,20,-
+163,KJP,KJP,Brandon Barnes,Rockies,5,14,7,14,LF RF,LF ,RF,R,,-,1-2,3-4,5,6-7,8-13,14,15-17,18,19-20
+164,KJP,KJP,Chris Stewart,Pirates,5,14,9,9,C,C,,R,,-,1,2,3-4,5-7,8-18,-,19-20,-,-
+165,KJP,KJP,Carlos Corporan,Astros,5,14,7,12,C,C,,R,,-,1,2,3-4,5-7,8-15,-,16-17,-,18-20
+166,KJP,KJP,Nick Markakis,Orioles,5,14,8,14,LF RF,LF ,RF,R,,-,1,2,3,4-7,8-16,-,17-18,-,19-20
+167,KJP,KJP,Scooter Gennett,Brewers,5,14,8,16,2B,2B,,R,,-,1,2-3,4-5,6-7,8-14,15,16-18,-,19-20
+168,KJP,KJP,Austin Jackson,Mariners,5,14,7,20,OF,OF,,R,,-,1,2,3-4,5-7,8-14,15,16-18,19,20
+169,KJP,KJP,DJ LeMahieu,Rockies,5,14,7,13,2B 3B,2B ,3B,R,,-,1,2-3,-,4-6,7-16,17,18,19,20
+170,KJP,KJP,Eduardo Escobar,Twins,5,14,7,13,IF,IF,,R,,-,1,2,3,4-5,6-14,-,15-19,-,20
+171,KJP,KJP,Ramon Santiago,Reds,5,14,8,15,IF,IF,,R,,-,1,2,3,4-7,8-17,-,18-19,-,20
+172,KJP,KJP,Aramis Ramirez,Brewers,5,14,8,16,3B,3B,,R,,-,1,2,3-4,5-6,7-16,-,17-18,-,19-20
+173,KJP,KJP,Robbie Grossman,Astros,5,14,8,18,OF,OF,,R,,-,1,2,3,4-8,9-15,16,17-18,-,19-20
+174,KJP,KJP,Jonathan Schoop,Orioles,5,14,5,15,2B 3B,2B ,3B,R,,-,1,2-3,4,5,6-13,-,14-15,-,16-20
+175,KJP,KJP,Charlie Blackmon,Rockies,5,14,8,20,OF,OF,,R,,-,1,2,3-4,5-6,7-13,14-15,16-17,-,18-20
+176,KJP,KJP,Daniel Murphy,Mets,5,14,8,18,2B 3B,2B ,3B,R,,-,1,2,3-4,5-7,8-15,16,17-19,-,20
+177,KJP,KJP,Conor Gillaspie,White Sox,5,14,8,8,3B,3B,,R,,-,1,-,2-3,4-6,7-15,-,16-18,19,20
+178,KJP,KJP,Kennys Vargas,Twins,5,14,7,12,1B,1B,,R,,-,1,2,3,4-5,6-15,-,16-17,-,18-20
+179,KJP,KJP,Josh Willingham,Royals,5,14,9,15,LF RF,LF ,RF,R,,-,1-2,3,4-5,6-11,12-17,-,18,-,19-20
+180,KJP,KJP,Hank Conger,Angels,5,14,7,8,C,C,,R,,-,1-2,3,4-5,6-8,9-16,-,17-18,-,19-20
+181,KJP,KJP,Tommy Medica,Padres,5,14,6,19,1B LF-RF,1B ,LF-RF,R,,-,1-2,3,4,5-6,7-13,14,15-16,-,17-20
+182,KJP,KJP,Luis Valbuena,Cubs,5,14,8,11,2B 3B,2B ,3B,R,,-,1,-,2-3,4-8,9-14,-,15-17,-,18-20
+183,KJP,KJP,David Freese,Angels,5,14,8,10,3B,3B,,R,,-,1-2,3-4,5,6-8,9-15,-,16-18,-,19-20
+184,KJP,KJP,Brian McCann,Yankees,5,14,6,12,C 1B,C ,1B,R,,-,1,2,3-4,5-7,8-15,-,16,-,17-20
+185,KJP,KJP,Abraham Almonte,Padres,5,14,6,15,OF,OF,,R,,-,1-2,3-4,5,6-7,8-14,15,16-18,-,19-20
+186,KJP,KJP,Logan Forsythe,Rays,5,14,6,16,2B 3B,2B ,3B,R,,-,1,-,2-3,4-6,7-15,-,16-17,-,18-20
+187,KJP,KJP,Jason Castro,Astros,5,14,6,14,C,C,,R,,-,1-2,3,4,5-7,8-15,-,16-17,-,18-20
+188,KJP,KJP,Chris Carter,Astros,5,14,7,15,1B,1B,,R,,-,1-2,-,3-4,5-8,9-13,-,14-15,-,16-20
+189,KJP,KJP,Ruben Tejada,Mets,5,14,8,11,SS,SS,,R,,-,1,-,2-3,4-8,9-18,-,19,-,20
+190,KJP,KJP,Chris Heisey,Reds,5,14,6,20,OF,OF,,R,,-,1,2,3-5,6-7,8-13,14,15-17,-,18-20
+191,KJP,KJP,Dexter Fowler,Astros,5,14,10,18,OF,OF,,R,,-,1-2,3,4-5,6-10,11-15,16,17-18,19,20
+192,KJP,KJP,Angel Pagan,Giants,5,14,8,20,OF,OF,,R,,-,1,2,3,4-6,7-14,15-16,17-19,-,20
+193,KJP,KJP,Chris Davis,Orioles,5,14,7,14,1B 3B,1B ,3B,R,,-,1-2,-,3-4,5-9,10-15,-,16,-,17-20
+194,KJP,KJP,Dustin Ackley,Mariners,5,14,7,16,LF RF,LF ,RF,R,,-,1,2-3,4-5,6-8,9-14,15,16-18,-,19-20
+195,KJP,KJP,Starlin Castro,Cubs,5,14,8,13,SS,SS,,R,,-,1,2,3,4-6,7-15,-,16-18,-,19-20
+196,KJP,KJP,Ryan Flaherty,Orioles,5,14,6,14,IF,IF,,R,,-,1,2,3,4-6,7-14,-,15-17,-,18-20
+197,KJP,KJP,Logan Morrison,Mariners,5,14,7,16,1B,1B,,R,,-,1,-,2-3,4-6,7-13,14,15-17,-,18-20
+198,KJP,KJP,Brandon Phillips,Reds,5,14,7,11,2B,2B,,R,,-,1,2,3-4,5-6,7-15,-,16-18,-,19-20
+199,KJP,KJP,Dee Gordon,Dodgers,5,14,8,23,2B,2B,,R,,-,1,2-3,4,5-6,7-12,13-16,17-18,19-20,-
+200,KJP,KJP,Alcides Escobar,Royals,5,14,7,22,SS,SS,,R,,-,1,2,3,4-5,6-14,15-16,17-19,20,-
+201,KJP,KJP,Matt Adams,Cardinals,5,14,8,14,1B,1B,,R,,-,1,2,3-5,6-7,8-14,-,15-17,18,19-20
+202,KJP,KJP,Adam LaRoche,Nationals,5,14,9,15,1B,1B,,R,,-,1,2,3-4,5-9,10-16,-,17,-,18-20
+203,KJP,KJP,Khris Davis,Brewers,5,14,7,15,LF RF,LF ,RF,R,,-,1-2,3,4-5,6-8,9-13,-,14-17,-,18-20
+204,KJP,KJP,Brandon Belt,Giants,5,14,7,17,1B,1B,,R,,-,1-2,-,3-4,5-7,8-13,14,15-16,-,17-20
+205,KJP,KJP,Joe Panik,Giants,5,14,8,12,2B,2B,,R,,-,1,2,3,4-5,6-18,-,19-20,-,-
+206,KJP,KJP,Stephen Vogt,Athletics,5,14,8,15,1B LF-RF,1B ,LF-RF,R,,-,1,2,3-5,6-7,8-15,-,16-17,-,18-20
+207,KJP,KJP,Wellington Castillo,Cubs,5,14,7,12,C,C,,R,,-,1-2,3,4-5,6-8,9-15,-,16-17,-,18-20
+208,KJP,KJP,Brad Miller,Mariners,5,14,6,15,2B 3B,2B ,3B,R,,-,1,2,3,4-6,7-14,-,15-16,17,18-20
+209,KJP,KJP,Billy Hamilton,Reds,5,14,7,22,OF,OF,,R,,-,1,2-3,4-5,6-7,8-12,13-16,17-18,19,20
+210,KJP,KJP,Didi Gregorius,Diamondbacks,5,14,6,17,2B SS,2B ,SS,R,,-,1,-,2-3,4-6,7-15,-,16,17,18-20
+211,KJP,KJP,Brian Roberts,Yankees,5,14,7,17,2B,2B,,R,,-,1,2,3-4,5-7,8-14,15,16-17,18,19-20
+212,KJP,KJP,Joe Mauer,Twins,5,14,9,16,1B,1B,,R,,-,1,2-3,4,5-9,10-17,-,18-20,-,-
+213,KJP,KJP,Brandon Moss,Athletics,5,14,8,14,1B LF-RF,1B ,LF-RF,R,,-,1-2,-,3-4,5-9,10-14,-,15-16,-,17-20
+214,KJP,KJP,Josh Hamilton,Angels,5,14,8,13,LF RF,LF ,RF,R,,-,1-2,-,3-4,5-7,8-15,-,16-18,-,19-20
+215,KJP,KJP,Sam Fuld,Twins,5,14,8,22,OF,OF,,R,,-,1,2-3,4-5,6-9,10-14,15-16,17-18,19,20
+216,KJP,KJP,Dioner Navarro,Blue Jays,5,14,7,16,C,C,,R,,-,1,-,2-3,4-6,7-16,-,17-18,-,19-20
+217,KJP,KJP,Matt Carpenter,Cardinals,5,14,10,14,3B,3B,,R,,-,1,2-3,4-5,6-10,11-17,-,18-20,-,-
+218,KJP,KJP,Anthony Recker,Mets,5,14,5,13,C,C,,R,,-,1-2,-,3-4,5-6,7-12,-,13-15,-,16-20
+219,KJP,KJP,Marlon Byrd,Phillies,5,14,7,14,LF RF,LF ,RF,R,,-,1,-,2-3,4-5,6-15,-,16-17,-,18-20
+220,KJP,KJP,Alex Avila,Tigers,5,14,8,9,C,C,,R,,-,1-2,3,4,5-9,10-16,-,17-18,-,19-20
+221,KJP,KJP,Peter Bourjos,Cardinals,5,14,7,19,OF,OF,,R,,-,1-2,3-4,5,6-8,9-16,17,18,19,20
+222,KJP,KJP,Brock Holt,Red Sox,5,14,8,19,IF OF,IF ,OF,R,,-,1,2-3,4,5-7,8-15,16,17-18,19,20
+223,KJP,KJP,Alexi Amarista,Padres,5,14,6,20,IF OF,IF ,OF,R,,-,1,2-3,4,5-7,8-16,17,18,-,19-20
+224,KJP,KJP,Yonder Alonso,Padres,5,14,6,19,1B,1B,,R,,-,1,2,3-4,5-7,8-12,13,14-17,-,18-20
+225,KJP,KJP,Marwin Gonzalez,Astros,5,14,8,9,IF,IF,,R,,-,1,2-3,4,5-6,7-16,-,17-18,-,19-20
+226,KJP,KJP,Freddie Freeman,Braves,5,14,10,11,1B,1B,,R,,-,1,2,3-4,5-9,10-16,-,17-19,-,20
+227,KJP,KJP,Alexei Ramirez,White Sox,5,14,7,20,SS,SS,,R,,-,1,2,3-4,5-6,7-13,14-15,16-18,-,19-20
+228,KJP,KJP,Kurt Suzuki,Twins,5,14,9,11,C,C,,R,,-,1,2-3,4-5,6-8,9-16,-,17-20,-,-
+229,KJP,KJP,Jose Reyes,Blue Jays,5,14,8,22,SS,SS,,R,,-,1,2,3-4,5-7,8-14,15-16,17-19,-,20
+230,KJP,KJP,John Jaso,Athletics,5,14,8,16,C,C,,R,,-,1,-,2-3,4-6,7-14,-,15-17,18,19-20
+231,KJP,KJP,Caleb Joseph,Orioles,5,14,6,10,C,C,,R,,-,1-2,3,4-6,7-9,10-14,-,15-16,-,17-20
+232,KJP,KJP,David Wright,Mets,5,14,8,15,3B,3B,,R,,-,1,2,3-5,6-8,9-15,16,17-19,-,20
+233,KJP,KJP,Zack Cozart,Reds,5,14,6,18,SS,SS,,R,,-,1,2-3,4-5,6-7,8-14,15,16-17,18,19-20
+234,KJP,KJP,David Ortiz,Red Sox,5,14,9,12,--,--,,R,,-,1,2,3-4,5-9,10-14,-,15-16,-,17-20
+235,KJP,KJP,Melky Cabrera,Blue Jays,5,14,9,16,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-16,-,17-19,-,20
+236,KJP,KJP,Carlos Santana,Indians,5,14,9,15,C 1B,C ,1B,R,,-,1,-,2-3,4-10,11-16,-,17-18,-,19-20
+237,KJP,KJP,Kolten Wong,Cardinals,5,14,7,21,2B,2B,,R,,-,1,2-3,4-5,6-7,8-14,15-16,17-18,-,19-20
+238,KJP,KJP,Evan Longoria,Rays,5,14,8,16,3B,3B,,R,,-,1,2,3-5,6-8,9-15,-,16-17,-,18-20
+239,KJP,KJP,David Peralta,Diamondbacks,5,14,8,17,OF,OF,,R,,-,1,2-3,4-5,6-7,8-13,14,15-16,17-18,19-20
+240,KJP,KJP,Ryan Hanigan,Rays,5,14,7,15,C,C,,R,,-,1,-,2-3,4-8,9-16,-,17-18,-,19-20
+241,KJP,KJP,Jacoby Ellsbury,Yankees,5,14,8,22,OF,OF,,R,,-,1,2,3-4,5-7,8-12,13-15,16-17,18,19-20
+242,KJP,KJP,Hunter Pence,Giants,5,14,8,17,LF RF,LF ,RF,R,,-,1,2-3,4,5-7,8-14,15,16-17,18,19-20
+243,KJP,KJP,Matt Holliday,Cardinals,5,14,9,15,LF RF,LF ,RF,R,,-,1,2,3,4-7,8-15,-,16-18,-,19-20
+244,KJP,KJP,Justin Upton,Braves,5,14,8,16,LF RF,LF ,RF,R,,-,1,-,2-3,4-7,8-12,13,14-16,-,17-20
+245,KJP,KJP,Tyler Flowers,White Sox,5,14,7,11,C,C,,R,,-,1-3,4,5,6-7,8-15,-,16-17,-,18-20
+246,KJP,KJP,Jordy Mercer,Pirates,5,14,7,15,SS,SS,,R,,-,1,2,3-4,5-7,8-15,-,16-18,-,19-20
+247,KJP,KJP,Denard Span,Nationals,5,14,9,21,OF,OF,,R,,-,1,2,3-4,5-7,8-14,15-16,17-19,20,-
+248,KJP,KJP,Pablo Sandoval,Giants,5,14,8,12,3B,3B,,R,,-,1,2-3,4-5,6-8,9-16,-,17-18,-,19-20
+249,KJP,KJP,Chase Utley,Phillies,5,14,8,18,2B,2B,,R,,-,1,-,2-3,4-6,7-13,14,15-17,18,19-20
+250,KJP,KJP,Brandon Guyer,Rays,5,14,8,19,OF,OF,,R,,-,1,2-3,4,5-6,7-15,16,17-19,-,20
+251,KJP,KJP,Adrian Gonzalez,Dodgers,5,14,8,13,1B,1B,,R,,-,1,2,3-4,5-7,8-14,-,15-17,-,18-20
+252,KJP,KJP,Wil Nieves,Phillies,5,14,6,16,C,C,,R,,-,1-2,3,4-5,6,7-14,-,15-18,-,19-20
+253,KJP,KJP,Christian Vazquez,Red Sox,5,14,7,12,C,C,,R,,-,1,2-3,4,5-8,9-18,-,19-20,-,-
+254,KJP,KJP,Brandon Crawford,Giants,5,14,8,15,SS,SS,,R,,-,1-2,3,4-5,6-9,10-14,-,15-16,17-18,19-20
+255,KJP,KJP,Ian Desmond,Nationals,5,14,7,20,SS,SS,,R,,-,1,2,3,4-6,7-13,14-15,16-17,-,18-20
+256,KJP,KJP,Salvador Perez,Royals,5,14,6,14,C,C,,R,,-,1,-,2-3,4-5,6-14,-,15-17,-,18-20
+257,KJP,KJP,Albert Pujols,Angels,5,14,8,16,1B,1B,,R,,-,1,2-3,4-5,6-8,9-14,-,15-17,-,18-20
+258,KJP,KJP,Yadier Molina,Cardinals,5,14,8,13,C,C,,R,,-,1,2-3,4,5-7,8-16,-,17-18,-,19-20
+259,KJP,KJP,Justin Morneau,Rockies,5,14,9,10,1B,1B,,R,,-,1,2,3,4-6,7-15,-,16-18,-,19-20
+260,KJP,KJP,Jose Ramirez,Indians,5,14,7,21,2B SS,2B ,SS,R,,-,1,2-3,4,5-6,7-15,16-17,18-19,-,20
+261,KJP,KJP,Chris Owings,Diamondbacks,5,14,7,20,2B SS,2B ,SS,R,,-,1,2,3-4,5-6,7-14,15,16-17,18,19-20
+262,KJP,KJP,Evan Gattis,Braves,5,14,7,12,C,C,,R,,-,1,-,2-3,4-5,6-14,-,15-16,-,17-20
+263,KJP,KJP,Matt den Dekker,Mets,5,14,9,19,OF,OF,,R,,-,1,2-3,4-5,6-10,11-15,16-17,18-20,-,-
+264,KJP,KJP,Christian Yelich,Marlins,5,14,9,20,OF,OF,,R,,-,1,2-3,4,5-8,9-15,16-17,18-19,20,-
+265,KJP,KJP,Travis Snider,Pirates,5,14,8,13,LF RF,LF ,RF,R,,-,1,2,3,4-7,8-15,-,16-17,-,18-20
+266,KJP,KJP,Lucas Duda,Mets,5,14,9,14,1B,1B,,R,,-,1-2,-,3-5,6-10,11-15,-,16-17,-,18-20
+267,KJP,KJP,Drew Stubbs,Rockies,5,14,8,22,OF,OF,,R,,-,1,2,3,4-6,7-12,13-14,15-17,18,19-20
+268,KJP,KJP,Chris Iannetta,Angels,5,14,9,16,C,C,,R,,-,1,-,2-3,4-9,10-16,-,17-19,-,20
+269,KJP,KJP,Martin Prado,Yankees,5,14,8,15,IF OF,IF ,OF,R,,-,1,2-3,4-5,6-7,8-16,-,17-18,-,19-20
+270,KJP,KJP,Neil Walker,Pirates,5,14,8,13,2B,2B,,R,,-,1,-,2-3,4-6,7-15,-,16-17,-,18-20
+271,KJP,KJP,J.J. Hardy,Orioles,5,14,7,12,SS,SS,,R,,-,1,2,3-4,5-6,7-15,-,16-18,-,19-20
+272,KJP,KJP,Jon Jay,Cardinals,5,14,9,16,OF,OF,,R,,-,1,2,3,4-6,7-17,18,19-20,-,-
+273,KJP,KJP,Brett Lawrie,Blue Jays,5,14,7,12,2B 3B,2B ,3B,R,,-,1,2,3-4,5-6,7-15,-,16-17,-,18-20
+274,KJP,KJP,Andrelton Simmons,Braves,5,14,6,11,SS,SS,,R,,-,1,2-3,4,5-6,7-17,-,18,-,19-20
+275,KJP,KJP,George Springer,Astros,5,14,8,17,LF RF,LF ,RF,R,,-,1,2,3,4-7,8-13,14,15,-,16-20
+276,KJP,KJP,Desmond Jennings,Rays,5,14,7,19,OF,OF,,R,,-,1,2,-,3-7,8-14,15,16-18,-,19-20
+277,KJP,KJP,Darwin Barney,Dodgers,5,14,7,15,2B,2B,,R,,-,1,2,3-4,5-7,8-17,-,18-19,-,20
+278,KJP,KJP,Brett Gardner,Yankees,5,14,8,20,OF,OF,,R,,-,1,2,3-4,5-8,9-13,14-15,16-17,18,19-20
+279,KJP,KJP,Francisco Cervelli,Yankees,5,14,9,16,C,C,,R,,-,1,2,3,4-6,7-16,-,17-20,-,-
+280,KJP,KJP,Carl Crawford,Dodgers,5,14,8,22,LF RF,LF ,RF,R,,-,1,2,3,4-5,6-12,13-15,16-17,18,19-20
+281,KJP,KJP,Erick Aybar,Angels,5,14,8,17,SS,SS,,R,,-,1,2-3,4-5,6-7,8-16,17,18-19,-,20
+282,KJP,KJP,Adam Lind,Blue Jays,5,14,10,12,1B,1B,,R,,-,1,2,3-4,5-8,9-15,-,16-19,-,20
+283,KJP,KJP,Jayson Werth,Nationals,5,14,10,18,LF RF,LF ,RF,R,,-,1,-,2-3,4-8,9-15,16,17-19,-,20
+284,KJP,KJP,Mike Napoli,Red Sox,5,14,9,14,1B,1B,,R,,-,1,2,3,4-9,10-16,-,17-18,-,19-20
+285,KJP,KJP,Jimmy Rollins,Phillies,5,14,8,21,SS,SS,,R,,-,1,2,3-5,6-9,10-14,15-16,17-18,-,19-20
+286,KJP,KJP,Yoenis Cespedes,Red Sox,5,14,7,16,LF RF,LF ,RF,R,,-,1,2,3-4,5-6,7-13,-,14-16,17,18-20
+287,KJP,KJP,Chase Headley,Yankees,5,14,8,16,3B,3B,,R,,-,1,2,3-4,5-8,9-15,16,17-18,-,19-20
+288,KJP,KJP,Edwin Encarnacion,Blue Jays,5,14,9,15,1B,1B,,R,,-,1,2,3-4,5-9,10-13,-,14-16,-,17-20
+289,KJP,KJP,Trevor Plouffe,Twins,5,14,8,14,3B,3B,,R,,-,1,2,3-4,5-8,9-15,-,16-18,-,19-20
+290,KJP,KJP,Derek Norris,Athletics,5,14,9,13,C,C,,R,,-,1,2,3-4,5-9,10-17,-,18-19,-,20
+291,KJP,KJP,Hanley Ramirez,Dodgers,5,14,9,19,SS,SS,,R,,-,1,2,3,4-7,8-14,15,16-19,-,20
+292,KJP,KJP,Joey Votto,Reds,5,14,10,13,1B,1B,,R,,-,1,2,3-4,5-11,12-16,-,17-19,-,20
+293,KJP,KJP,Ian Kinsler,Tigers,5,14,7,18,2B,2B,,R,,-,1,2,3-4,5-6,7-13,14,15-18,-,19-20
+294,KJP,KJP,Adam Jones,Orioles,5,14,7,17,OF,OF,,R,,-,1,2,3,4,5-14,-,15-17,-,18-20
+295,KJP,KJP,Manny Machado,Orioles,5,14,8,16,3B,3B,,R,,-,1,2-3,4-5,6-7,8-15,-,16-17,-,18-20
+296,KJP,KJP,Nelson Cruz,Orioles,5,14,8,11,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-13,-,14-15,-,16-20
+297,KJP,KJP,Robinson Chirinos,Rangers,5,14,6,10,C,C,,R,,-,1,2,3,4-5,6-14,-,15-16,-,17-20
+298,KJP,KJP,Corey Dickerson,Rockies,5,14,9,14,OF,OF,,R,,-,1,-,2-3,4-6,7-12,13,14-16,17,18-20
+299,KJP,KJP,Martin Maldonado,Brewers,5,14,8,12,C,C,,R,,-,1-2,3,4-5,6-9,10-15,-,16-17,-,18-20
+300,KJP,KJP,Carlos Gomez,Brewers,5,14,9,21,OF,OF,,R,,-,1,2,3-4,5-7,8-13,14-15,16-18,-,19-20
+301,KJP,KJP,Miguel Cabrera,Tigers,5,14,9,13,1B 3B,1B ,3B,R,,-,1,-,2-3,4-7,8-14,-,15-18,-,19-20
+302,KJP,KJP,Marcell Ozuna,Marlins,5,14,7,14,OF,OF,,R,,-,1,2,3,4-6,7-14,-,15-16,17,18-20
+303,KJP,KJP,Brian Dozier,Twins,5,14,9,19,2B,2B,,R,,-,1,2,3-5,6-10,11-15,16,17-18,-,19-20
+304,KJP,KJP,Carlos Ruiz,Phillies,5,14,9,15,C,C,,R,,-,1,2,3-5,6-9,10-17,-,18-20,-,-
+305,KJP,KJP,Cliff Pennington,Diamondbacks,5,14,8,20,IF,IF,,R,,-,1,2,3,4-7,8-16,17,18,19,20
+306,KJP,KJP,Collin Cowgill,Angels,5,14,8,18,OF,OF,,R,,-,1,2-3,4,5-8,9-15,16,17-18,-,19-20
+307,KJP,KJP,Anthony Rizzo,Cubs,5,14,10,14,1B,1B,,R,,-,1,2,3-4,5-9,10-15,-,16-17,-,18-20
+308,KJP,KJP,Ben Zobrist,Rays,5,14,9,16,2B-SS OF,2B-SS ,OF,R,,-,1,2-3,4,5-9,10-15,16,17-19,-,20
+309,KJP,KJP,Dustin Pedroia,Red Sox,5,14,8,13,2B,2B,,R,,-,1,2,3,4-6,7-16,-,17-19,-,20
+310,KJP,KJP,Kole Calhoun,Angels,5,14,8,15,LF RF,LF ,RF,R,,-,1,2,3-4,5-7,8-14,-,15-17,-,18-20
+311,KJP,KJP,Seth Smith,Padres,5,14,9,13,LF RF,LF ,RF,R,,-,1,2,3,4-8,9-15,-,16-18,19,20
+312,KJP,KJP,Todd Frazier,Reds,5,14,8,19,1B 3B,1B ,3B,R,,-,1,-,2-3,4-6,7-13,14,15-16,-,17-20
+313,KJP,KJP,Josh Reddick,Athletics,5,14,7,13,LF RF,LF ,RF,R,,-,1,-,2-3,4-6,7-14,-,15-16,17,18-20
+314,KJP,KJP,Howie Kendrick,Angels,5,14,9,18,2B,2B,,R,,-,1,2-4,5,6-8,9-15,16,17-19,20,-
+315,KJP,KJP,Buster Posey,Giants,5,14,9,11,C 1B,C ,1B,R,,-,1,2,3,4-6,7-16,-,17-18,-,19-20
+316,KJP,KJP,Adam Rosales,Rangers,5,14,8,17,1B 3B,1B ,3B,R,,-,1,2,3-4,5-7,8-15,16,17-18,-,19-20
+317,KJP,KJP,Yan Gomes,Indians,5,14,7,12,C,C,,R,,-,1,-,2-3,4-5,6-14,-,15-17,-,18-20
+318,KJP,KJP,J.D. Martinez,Tigers,5,14,9,16,LF RF,LF ,RF,R,,-,1-2,3,4,5-7,8-13,14,15-17,-,18-20
+319,KJP,KJP,Jose Altuve,Astros,5,14,10,23,2B,2B,,R,,-,1,2-3,4-5,6-7,8-13,14-16,17-19,-,20
+320,KJP,KJP,Leonys Martin,Rangers,5,14,8,21,OF,OF,,R,,-,1,2-3,4,5-7,8-15,16-17,18,19,20
+321,KJP,KJP,Victor Martinez,Tigers,5,14,10,14,1B,1B,,R,,-,-,1,2-3,4-7,8-14,-,15-17,-,18-20
+322,KJP,KJP,Yasiel Puig,Dodgers,5,14,10,16,OF,OF,,R,,-,1,2-3,4,5-8,9-14,15,16-18,19,20
+323,KJP,KJP,Ender Inciarte,Diamondbacks,5,14,7,21,OF,OF,,R,,-,1,2-3,-,4-5,6-15,16-17,18-19,-,20
+324,KJP,KJP,Nolan Arenado,Rockies,5,14,8,14,3B,3B,,R,,-,1,2,3-4,5-6,7-13,-,14-17,-,18-20
+325,KJP,KJP,Daniel Nava,Red Sox,5,14,9,15,1B LF-RF,1B ,LF-RF,R,,-,1,2-3,4-5,6-8,9-17,-,18-20,-,-
+326,KJP,KJP,Jose Bautista,Blue Jays,5,14,10,16,1B-OF,1B-OF,,R,,-,1,-,2-3,4-9,10-15,-,16-17,-,18-20
+327,KJP,KJP,Jose Abreu,White Sox,5,14,10,14,1B,1B,,R,,-,1,2,3-4,5-7,8-13,-,14-16,-,17-20
+328,KJP,KJP,Danny Santana,Twins,5,14,9,21,SS OF,SS ,OF,R,,-,1,2,3-4,5-6,7-13,14-15,16-18,19,20
+329,KJP,KJP,Kyle Seager,Mariners,5,14,8,14,3B,3B,,R,,-,1,2,3-4,5-7,8-15,-,16-17,-,18-20
+330,KJP,KJP,Starling Marte,Pirates,5,14,9,21,OF,OF,,R,,-,1,2-3,4,5-7,8-13,14-15,16-18,19,20
+331,KJP,KJP,Jhonny Peralta,Cardinals,5,14,8,14,SS,SS,,R,,-,1,-,2-3,4-7,8-14,-,15-17,-,18-20
+332,KJP,KJP,Adam Eaton,White Sox,5,14,9,17,OF,OF,,R,,-,1,2-3,4,5-7,8-15,16,17-18,19-20,-
+333,KJP,KJP,Mookie Betts,Red Sox,5,14,9,19,2B OF,2B ,OF,R,,-,1,-,2-3,4-7,8-14,15-16,17-19,-,20
+334,KJP,KJP,Paul Goldschmidt,Diamondbacks,5,14,10,18,1B,1B,,R,,-,1,2,3,4-8,9-13,14,15-18,-,19-20
+335,KJP,KJP,Robinson Cano,Mariners,5,14,10,17,2B,2B,,R,,-,1,2-3,4,5-8,9-15,16,17-19,-,20
+336,KJP,KJP,Anthony Rendon,Nationals,5,14,9,19,2B 3B,2B ,3B,R,,-,1,2,3-4,5-7,8-13,14,15-17,18,19-20
+337,KJP,KJP,Kevin Kiermaier,Rays,5,14,7,14,OF,OF,,R,,-,1,2-3,-,4-6,7-13,14,15-16,17-18,19-20
+338,KJP,KJP,Josh Harrison,Pirates,5,14,9,19,IF LF-RF,IF ,LF-RF,R,,-,1,2,3-5,6-7,8-12,13-14,15-18,19,20
+339,KJP,KJP,Jarrod Dyson,Royals,5,14,8,23,OF,OF,,R,,-,1,2-4,5,6-8,9-13,14-18,19,20,-
+340,KJP,KJP,Jason Heyward,Braves,5,14,9,20,LF RF,LF ,RF,R,,-,1,2,3-4,5-8,9-16,17,18-19,-,20
+341,KJP,KJP,Rene Rivera,Padres,5,14,7,12,C,C,,R,,-,1,-,2,3-6,7-14,-,15-17,-,18-20
+342,KJP,KJP,Juan Uribe,Dodgers,5,14,8,11,3B,3B,,R,,-,1,2,3,4-5,6-15,-,16-18,-,19-20
+343,KJP,KJP,Lorenzo Cain,Royals,5,14,8,22,OF,OF,,R,,-,1,2,3,4-5,6-13,14-15,16-18,19,20
+344,KJP,KJP,Andrew McCutchen,Pirates,5,14,11,20,OF,OF,,R,,-,1,2,3-4,5-9,10-13,14,15-17,18,19-20
+345,KJP,KJP,Jonathan Lucroy,Brewers,5,14,9,13,C 1B,C ,1B,R,,-,1,2,3,4-7,8-14,-,15-19,-,20
+346,KJP,KJP,Alex Gordon,Royals,5,14,9,18,LF RF,LF ,RF,R,,-,1,2,3-4,5-8,9-14,15,16-18,-,19-20
+347,KJP,KJP,Giancarlo Stanton,Marlins,5,14,10,19,LF RF,LF ,RF,R,,-,1,-,2-3,4-9,10-12,13,14-16,-,17-20
+348,KJP,KJP,Michael Brantley,Indians,5,14,10,21,OF,OF,,R,,-,1,2,3-4,5-7,8-13,14-15,16-18,-,19-20
+349,KJP,KJP,Michael McKenry,Rockies,5,14,10,8,C,C,,R,,-,1,-,2-3,4-8,9-16,-,17-18,-,19-20
+350,KJP,KJP,Chris Taylor,Mariners,5,14,9,19,3B,3B,,R,,-,1-2,3,4-5,6-8,9-15,16-17,18-20,-,-
+351,KJP,KJP,Devin Mesoraco,Reds,5,14,9,10,C,C,,R,,-,1,2,3-4,5-8,9-14,-,15-17,-,18-20
+352,KJP,KJP,Josh Donaldson,Athletics,5,14,8,17,3B,3B,,R,,-,1,2,3,4-7,8-14,15,16-17,-,18-20
+353,KJP,KJP,Mike Trout,Angels,5,14,10,19,OF,OF,,R,,-,1-2,3,4-5,6-10,11-12,13,14-16,17,18-20
+354,KJP,KJP,Adrian Beltre,Rangers,5,14,10,13,3B,3B,,R,,-,1,2,3-4,5-8,9-15,-,16-18,-,19-20
+355,KJP,KJP,Russell Martin,Pirates,5,14,10,13,C,C,,R,,-,1,2,3,4-8,9-17,-,18-19,-,20
+356,KJP,KJP,Juan Lagares,Mets,5,14,8,19,OF,OF,,R,,-,1,2-3,4-5,6-7,8-15,16,17-19,-,20
+357,KJP,KJP,Justin Turner,Dodgers,5,14,10,18,2B-SS 3B,2B-SS ,3B,R,,-,1,2,3,4-7,8-15,16,17-19,-,20
+358,KJP,KJP,A.J. Pollock,Diamondbacks,5,14,9,21,OF,OF,,R,,-,1,2-3,4,5-7,8-12,13-14,15-17,18-19,20
+359,KJP,KJP,Troy Tulowitzki,Rockies,5,14,11,13,SS,SS,,R,,-,1,-,2,3-8,9-14,-,15-17,-,18-20
+360,KJP,KJP,Steve Pearce,Orioles,5,14,9,18,1B LF-RF,1B ,LF-RF,R,,-,1,-,2-3,4-7,8-12,13,14-17,-,18-20
+361,KJP,KJP,Johnny Cueto,Reds,5,14,6,7,Starter,Starter,,R,,1-2,3-8,9-12,13-16,17,18-20,-,-,-,-
+362,KJP,KJP,Clayton Kershaw,Dodgers,5,14,6,8,Starter,Starter,,R,,1-2,3-11,12-14,15-16,-,17-20,-,-,-,-
+363,KJP,KJP,Corey Kluber,Indians,5,14,6,7,Starter,Starter,,R,,1-2,3-9,10-12,13-15,16,17-19,-,20,-,-
+364,KJP,KJP,Zack Greinke,Dodgers,5,14,6,6,Starter,Starter,,R,,1-2,3-8,9-12,13-15,16,17-19,-,20,-,-
+365,KJP,KJP,Madison Bumgarner,Giants,5,14,6,7,Starter,Starter,,R,,1-2,3-8,9-12,13-15,16,17-19,-,20,-,-
+366,KJP,KJP,Adam Wainwright,Cardinals,5,14,6,7,Starter,Starter,,R,,1-2,3-6,7-11,12-15,16,17-19,-,20,-,-
+367,KJP,KJP,Doug Fister,Nationals,5,14,6,7,Starter,Starter,,R,,1-2,3-5,5-10,11-15,-,16-20,-,-,-,-
+368,KJP,KJP,Wei-Yin Chen,Orioles,5,14,6,6,Starter,Starter,,R,,1-2,3-6,7-10,11-14,-,15-19,-,20,-,-
+369,KJP,KJP,Max Scherzer,Tigers,5,14,6,7,Starter,Starter,,R,,1-2,3-9,10-11,12-14,15,16-19,-,20,-,-
+370,KJP,KJP,Jered Weaver,Angels,5,14,6,6,Starter,Starter,,R,,1-2,3-6,7-9,10-14,15-16,17-19,-,20,-,-
+371,KJP,KJP,Phil Hughes,Twins,5,14,6,7,Starter,Starter,,R,,1-2,3-7,8-10,11-14,-,15-19,-,20,-,-
+372,KJP,KJP,Lance Lynn,Cardinals,5,14,6,6,Starter,Starter,,R,,1-2,3-7,8-11,12-14,15-16,17-19,-,20,-,-
+373,KJP,KJP,Felix Hernandez,Mariners,5,14,5,7,Starter,Starter,,R,,1-2,3-9,10-14,15-17,18,19-20,-,-,-,-
+374,KJP,KJP,Julio Teheran,Braves,5,14,5,7,Starter,Starter,,R,,1-2,3-7,8-11,12-16,17,18-20,-,-,-,-
+375,KJP,KJP,Garrett Richards,Angels,5,14,5,7,Starter,Starter,,R,,1-2,3-9,10-13,14-16,17-18,19-20,-,-,-,-
+376,KJP,KJP,Jon Lester,Athletics,5,14,5,7,Starter,Starter,,R,,1-2,3-9,10-12,13-16,17,18-19,-,20,-,-
+377,KJP,KJP,Jordan Zimmermann,Nationals,5,14,5,6,Starter,Starter,,R,,1-2,3-8,9-11,12-16,-,17-20,-,-,-,-
+378,KJP,KJP,Tanner Roark,Nationals,5,14,5,6,Starter,Starter,,R,,1-2,3-5,6-10,11-16,17,18-19,-,20,-,-
+379,KJP,KJP,Bud Norris,Orioles,5,14,5,6,Starter,Starter,,R,,1-2,3-7,8-11,12-15,16-17,18-19,-,20,-,-
+380,KJP,KJP,Alfredo Simon,Reds,5,14,5,6,Starter,Starter,,R,,1-2,3-5,6-11,12-15,16,17-19,-,20,-,-
+381,KJP,KJP,David Price,Tigers,5,14,5,7,Starter,Starter,,R,,1-2,3-10,11-12,13-15,-,16-19,-,20,-,-
+382,KJP,KJP,Rick Porcello,Tigers,5,14,5,7,Starter,Starter,,R,,1-2,3-5,6-11,12-15,16,17-19,-,20,-,-
+383,KJP,KJP,Yordano Ventura,Royals,5,14,5,6,Starter,Starter,,R,,1-2,3-7,8-11,12-15,16-17,18-19,-,20,-,-
+384,KJP,KJP,James Shields,Royals,5,14,5,7,Starter,Starter,,R,,1-2,3-6,7-11,12-15,-,16-19,-,20,-,-
+385,KJP,KJP,Hyun-Jin Ryu,Dodgers,5,14,5,6,Starter,Starter,,R,,1-2,3-8,9-12,13-15,-,16-19,-,20,-,-
+386,KJP,KJP,Scott Kazmir,Athletics,5,14,5,6,Starter,Starter,,R,,1-2,3-7,8-11,12-15,16,17-19,-,20,-,-
+387,KJP,KJP,Sonny Gray,Athletics,5,14,5,7,Starter,Starter,,R,,1-2,3-7,8-12,13-15,16-17,18-20,-,-,-,-
+388,KJP,KJP,Hisashi Iwakuma,Mariners,5,14,5,6,Starter,Starter,,R,,1-2,3-7,8-12,13-15,-,16-20,-,-,-,-
+389,KJP,KJP,Stephen Strasburg,Nationals,5,14,5,6,Starter,Starter,,R,,1-2,3-10,11-12,13-15,16,17-19,-,20,-,-
+390,KJP,KJP,Ervin Santana,Braves,5,14,5,6,Starter,Starter,,R,,1-2,3-8,9-11,12-14,15-16,17-19,-,20,-,-
+391,KJP,KJP,Jorge De La Rosa,Rockies,5,14,5,6,Starter,Starter,,R,,1-2,3-6,7-11,12-14,15-16,17-19,-,20,-,-
+392,KJP,KJP,Wily Peralta,Brewers,5,14,5,6,Starter,Starter,,R,,1-2,3-6,7-11,12-14,15-16,17-20,-,-,-,-
+393,KJP,KJP,Bartolo Colon,Mets,5,14,5,7,Starter,Starter,,R,,1-2,3-6,7-10,11-14,-,15-19,-,20,-,-
+394,KJP,KJP,John Lackey,Cardinals,5,14,5,6,Starter,Starter,,R,,1-2,3-6,7-10,11-14,15,16-19,-,20,-,-
+395,KJP,KJP,Chris Sale,White Sox,5,14,4,7,Starter,Starter,,R,,1-2,3-11,12-14,15-18,19,20,-,-,-,-
+396,KJP,KJP,Alex Wood,Braves,5,14,4,7,Starter,Starter,,R,,1-2,3-9,10-13,14-17,18,19,-,20,-,-
+397,KJP,KJP,Jake Arrieta,Cubs,5,14,4,6,Starter,Starter,,R,,1-2,3-10,11-14,15-17,18,19-20,-,-,-,-
+398,KJP,KJP,Collin McHugh,Astros,5,14,4,6,Starter,Starter,,R,,1-2,3-9,10-12,13-17,18,19-20,-,-,-,-
+399,KJP,KJP,Masahiro Tanaka,Yankees,5,14,4,7,Starter,Starter,,R,,1-2,3-9,10-13,14-17,-,18-19,-,20,-,-
+400,KJP,KJP,Cole Hamels,Phillies,5,14,4,7,Starter,Starter,,R,,1-2,3-9,10-13,14-17,18,19,-,20,-,-
+401,KJP,KJP,Chris Tillman,Orioles,5,14,4,6,Starter,Starter,,R,,1-2,3-7,8-11,12-16,17,18-19,-,20,-,-
+402,KJP,KJP,Dallas Keuchel,Astros,5,14,4,7,Starter,Starter,,R,,1-2,3-7,8-13,14-16,17,18-19,-,20,-,-
+403,KJP,KJP,Dan Haren,Dodgers,5,14,4,6,Starter,Starter,,R,,1-2,3-7,8-10,11-16,-,17-19,-,20,-,-
+404,KJP,KJP,Henderson Alvarez,Marlins,5,14,4,6,Starter,Starter,,R,,1-2,3-5,6-12,13-16,-,17-19,-,20,-,-
+405,KJP,KJP,Kyle Lohse,Brewers,5,14,4,6,Starter,Starter,,R,,1-2,3-6,7-10,11-16,17,18-19,-,20,-,-
+406,KJP,KJP,Edinson Volquez,Pirates,5,14,4,6,Starter,Starter,,R,,1-2,3-7,8-12,13-16,17-18,19,-,20,-,-
+407,KJP,KJP,Tyson Ross,Padres,5,14,4,6,Starter,Starter,,R,,1-2,3-9,10-14,15-16,17-18,19-20,-,-,-,-
+408,KJP,KJP,R.A. Dickey,Blue Jays,5,14,4,6,Starter,Starter,,R,,1-2,3-7,8-11,12-16,17,18-19,-,20,-,-
+409,KJP,KJP,Aaron Harang,Braves,5,14,4,6,Starter,Starter,,R,,1-2,3-7,8-10,11-15,16-17,18-19,-,20,-,-
+410,KJP,KJP,Mike Leake,Reds,5,14,4,7,Starter,Starter,,R,,1-2,3-7,8-12,13-15,16,17-19,-,20,-,-
+411,KJP,KJP,Jason Vargas,Royals,5,14,4,6,Starter,Starter,,R,,1-2,3-6,7-10,11-15,16,17-19,-,20,-,-
+412,KJP,KJP,Jeremy Guthrie,Royals,5,14,4,6,Starter,Starter,,R,,1-2,3-6,7-10,11-15,16,17-20,-,-,-,-
+413,KJP,KJP,Jarred Cosart,Marlins,5,14,4,6,Starter,Starter,,R,,1-2,3-6,7-12,13-15,16-17,18-20,-,-,-,-
+414,KJP,KJP,Kyle Gibson,Twins,5,14,4,6,Starter,Starter,,R,,1-2,3-5,6-11,12-15,16-17,18-19,-,20,-,-
+415,KJP,KJP,Zack Wheeler,Mets,5,14,4,6,Starter,Starter,,R,,1-2,3-9,10-13,14-15,16-18,19,-,20,-,-
+416,KJP,KJP,Ian Kennedy,Padres,5,14,4,6,Starter,Starter,,R,,1-2,3-9,10-11,12-15,16-17,18-19,-,20,-,-
+417,KJP,KJP,Mark Buehrle,Blue Jays,5,14,4,6,Starter,Starter,,R,,1-2,3-5,6-9,10-15,16,17-18,-,19-20,-,-
+418,KJP,KJP,John Danks,White Sox,5,14,4,6,Starter,Starter,,R,,1-2,3-6,7-9,10-14,15-16,17-18,-,19-20,-,-
+419,KJP,KJP,Justin Verlander,Tigers,5,14,4,7,Starter,Starter,,R,,1-2,3-7,8-10,11-14,15-16,17-19,-,20,-,-
+420,KJP,KJP,C.J. Wilson,Angels,5,14,4,6,Starter,Starter,,R,,1-2,3-8,9-11,12-14,15-17,18-20,-,-,-,-
+421,KJP,KJP,Kyle Kendrick,Phillies,5,14,4,6,Starter,Starter,,R,,1-2,3-5,6-9,10-14,15,16-19,-,20,-,-
+422,KJP,KJP,Kyle Hendricks,Cubs,5,14,3,6,Starter,Starter,,R,,1-2,3-5,7-12,13-18,-,19-20,-,-,-,-
+423,KJP,KJP,Carlos Carrasco,Indians,5,14,3,7,Starter,Starter,,R,,1-2,3-9,10-14,15-18,19,-,-,20,-,-
+424,KJP,KJP,Jacob deGrom,Mets,5,14,3,6,Starter,Starter,,R,,1-2,3-9,10-13,14-18,19,-,-,20,-,-
+425,KJP,KJP,Jeff Samardzija,Athletics,5,14,3,7,Starter,Starter,,R,,1-2,3-8,9-13,14-18,-,19,-,20,-,-
+426,KJP,KJP,Andrew Cashner,Padres,5,14,3,7,Starter,Starter,,R,,1-2,3-7,8-13,14-18,-,19,-,20,-,-
+427,KJP,KJP,Josh Collmenter,Diamondbacks,5,14,3,6,Starter,Starter,,R,,1-2,3-6,7-10,11-17,18,19,-,20,-,-
+428,KJP,KJP,Miguel Gonzalez,Orioles,5,14,3,6,Starter,Starter,,R,,1-2,3-6,7-10,11-17,18,-,-,19,-,20
+429,KJP,KJP,Hiroki Kuroda,Yankees,5,14,3,6,Starter,Starter,,R,,1-2,3-7,8-12,13-17,-,18-19,-,20,-,-
+430,KJP,KJP,Gerrit Cole,Pirates,5,14,3,6,Starter,Starter,,R,,1-2,3-9,10-13,14-17,18,19,-,20,-,-
+431,KJP,KJP,Chris Young,Mariners,5,14,3,6,Starter,Starter,,R,,1-2,3-6,7-9,10-17,18-19,-,-,20,-,-
+432,KJP,KJP,Alex Cobb,Rays,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-13,14-17,18,19-20,-,-,-,-
+433,KJP,KJP,Chris Archer,Rays,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-12,13-17,18-19,20,-,-,-,-
+434,KJP,KJP,Yu Darvish,Rangers,5,14,3,7,Starter,Starter,,R,,1-2,3-11,12-13,14-17,18,19,-,20,-,-
+435,KJP,KJP,Chase Anderson,Diamondbacks,5,14,3,5,Starter,Starter,,R,,1-2,3-8,9-11,12-16,17,18-19,-,20,-,-
+436,KJP,KJP,Tom Koehler,Marlins,5,14,3,6,Starter,Starter,,R,,1-2,3-7,8-11,12-16,17-18,19-20,-,-,-,-
+437,KJP,KJP,Brandon McCarthy,Yankees,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-12,13-16,-,17-19,-,20,-,-
+438,KJP,KJP,Roenis Elias,Mariners,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-12,13-16,17-18,19,-,20,-,-
+439,KJP,KJP,Shelby Miller,Cardinals,5,14,3,6,Starter,Starter,,R,,1-2,3-6,7-10,11-16,17-18,19,-,20,-,-
+440,KJP,KJP,Jake Odorizzi,Rays,5,14,3,5,Starter,Starter,,R,,1-2,3-9,10-11,12-16,17-18,19-20,-,-,-,-
+441,KJP,KJP,Drew Hutchison,Blue Jays,5,14,3,6,Starter,Starter,,R,,1-2,3-9,10-11,12-16,17,18,-,19-20,-,-
+442,KJP,KJP,J.A. Happ,Blue Jays,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-11,12-16,17,18,-,19-20,-,-
+443,KJP,KJP,Wade Miley,Diamondbacks,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-12,13-15,16-17,18-19,-,20,-,-
+444,KJP,KJP,Hector Noesi,White Sox,5,14,3,6,Starter,Starter,,R,,1-2,3-6,7-9,10-15,16-17,18-19,-,-,-,20
+445,KJP,KJP,A.J. Burnett,Phillies,5,14,3,6,Starter,Starter,,R,,1-2,3-8,9-12,13-15,16-18,19,-,20,-,-
+446,KJP,KJP,Eric Stults,Padres,5,14,3,5,Starter,Starter,,R,,1-2,3-6,7-10,11-15,16,17-19,-,20,-,-
+447,KJP,KJP,Colby Lewis,Rangers,5,14,3,6,Starter,Starter,,R,,1-2,3-7,8-9,10-15,16,17-18,-,19-20,-,-
+448,KJP,KJP,Jose Quintana,White Sox,5,14,2,6,Starter,Starter,,R,,1-2,3-9,10-13,14-18,-,19,-,20,-,-
+449,KJP,KJP,Homer Bailey,Reds,5,14,2,6,Starter,Starter,,R,,1-2,3-9,10-13,14-18,19,-,-,20,-,-
+450,KJP,KJP,Matt Garza,Brewers,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-12,13-18,19,-,-,20,-,-
+451,KJP,KJP,Jonathon Niese,Mets,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-12,13-18,-,19,-,20,-,-
+452,KJP,KJP,Tim Hudson,Giants,5,14,2,6,Starter,Starter,,R,,1-2,3-7,8-13,14-18,-,19,-,20,-,-
+453,KJP,KJP,Drew Smyly,Rays,5,14,2,6,Starter,Starter,,R,,1-2,3-9,10-12,13-18,-,19,-,20,-,-
+454,KJP,KJP,Scott Feldman,Astros,5,14,2,6,Starter,Starter,,R,,1-2,3-6,7-11,12-17,18,19,-,20,-,-
+455,KJP,KJP,Hector Santiago,Angels,5,14,2,5,Starter,Starter,,R,,1-2,3-9,10-12,13-17,18-19,20,-,-,-,-
+456,KJP,KJP,Yovani Gallardo,Brewers,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-12,13-17,18,19-20,-,-,-,-
+457,KJP,KJP,David Buchanan,Phillies,5,14,2,6,Starter,Starter,,R,,1-2,3-6,7-12,13-17,18,19,-,20,-,-
+458,KJP,KJP,Francisco Liriano,Pirates,5,14,2,5,Starter,Starter,,R,,1-2,3-11,12-14,15-17,18-20,-,-,-,-,-
+459,KJP,KJP,Charlie Morton,Pirates,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-13,14-17,18-19,20,-,-,-,-
+460,KJP,KJP,Ryan Vogelsong,Giants,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-11,12-17,18,-,-,19-20,-,-
+461,KJP,KJP,Jake Peavy,Giants,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-11,12-17,18,19,-,20,-,-
+462,KJP,KJP,Clay Buchholz,Red Sox,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-11,12-16,17,18-19,-,20,-,-
+463,KJP,KJP,Travis Wood,Cubs,5,14,2,5,Starter,Starter,,R,,1-2,3-9,10-11,12-16,17-18,-,-,19-20,-,-
+464,KJP,KJP,Danny Salazar,Indians,5,14,2,5,Starter,Starter,,R,,1-2,3-11,12,13-16,17,18-19,-,20,-,-
+465,KJP,KJP,Tyler Matzek,Rockies,5,14,2,6,Starter,Starter,,R,,1-2,3-8,9-12,13-16,17-18,-,-,19-20,-,-
+466,KJP,KJP,Jordan Lyles,Rockies,5,14,2,6,Starter,Starter,,R,,1-2,3-7,8-12,13-16,17,18-19,-,20,-,-
+467,KJP,KJP,Tommy Milone,Twins,5,14,2,5,Starter,Starter,,R,,1-2,3-7,8-10,11-16,17,18-19,-,20,-,-
+468,KJP,KJP,Vidal Nuno,Diamondbacks,5,14,1,6,Starter,Starter,,R,,1-2,3-8,9-12,13-18,-,19,-,20,-,-
+469,KJP,KJP,Joe Kelly,Red Sox,5,14,1,6,Starter,Starter,,R,,1-2,3-7,8-14,15-18,19-20,-,-,-,-,-
+470,KJP,KJP,Nathan Eovaldi,Marlins,5,14,1,6,Starter,Starter,,R,,1-2,3-7,8-12,13-18,-,19,-,20,-,-
+471,KJP,KJP,Edwin Jackson,Cubs,5,14,1,5,Starter,Starter,,R,,1-2,3-9,10-12,13-17,18,-,-,19-20,-,-
+472,KJP,KJP,Trevor Bauer,Indians,5,14,1,6,Starter,Starter,,R,,1-2,3-9,10-12,13-17,18,19,-,20,-,-
+473,KJP,KJP,Franklin Morales,Rockies,5,14,1,5,Starter,Starter,,R,,1-2,3-7,8-12,13-17,18,-,-,19,-,20
+474,KJP,KJP,Ricky Nolasco,Twins,5,14,1,6,Starter,Starter,,R,,1-2,3-8,9-12,13-17,18,-,-,19-20,-,-
+475,KJP,KJP,Nick Tepesch,Rangers,5,14,1,6,Starter,Starter,,R,,1-2,3-5,6-9,10-17,18,19,-,20,-,-
+476,KJP,KJP,Brandon Workman,Red Sox,5,14,0,5,Starter,Starter,,R,,1-2,3-9,10-13,14-18,19,-,-,20,-,-
+477,KJP,KJP,Rubby De La Rosa,Red Sox,5,14,0,5,Starter,Starter,,R,,1-2,3-8,9-13,14-18,19,-,-,20,-,-
+478,KJP,KJP,Brett Oberholtzer,Astros,5,14,0,6,Starter,Starter,,R,,1-2,3-7,8-11,12-18,-,19,-,20,-,-
+479,KJP,KJP,David Phelps,Yankees,5,14,0,6,Starter,Starter,,R,,1-2,3-9,10-13,14-18,19,-,-,20,-,-
+480,KJP,KJP,Nick Martinez,Rangers,5,14,0,5,Starter,Starter,,R,,1-2,3-6,7-10,11-18,-,-,-,19-20,-,-
+481,KJP,KJP,Rafael Soriano,Nationals,5,14,4,1,Closer,Closer,,R,,1-2,3-8,9-10,11-15,16,17-19,-,20,-,-
+482,KJP,KJP,Drew Storen,Nationals,5,14,5,1,Reliever,Reliever,,R,,1-2,3-6,7-11,12-17,-,18-19,-,20,-,-
+483,KJP,KJP,Tyler Clippard,Nationals,5,14,6,1,Reliever,Reliever,,R,,1-2,3-9,10-11,12-15,16,17-20,-,-,-,-
+484,KJP,KJP,Craig Stammen,Nationals,5,14,1,2,Reliever,Reliever,,R,,1-3,4-9,10-13,14-17,-,18-19,-,20,-,-
+485,KJP,KJP,Casey Janssen,Blue Jays,5,14,4,1,Closer,Closer,,R,,1-2,3-5,6-8,9-14,-,15-19,-,20,-,-
+486,KJP,KJP,Brett Cecil,Blue Jays,5,14,5,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-15,16-18,19-20,-,-,-,-
+487,KJP,KJP,Aaron Loup,Blue Jays,5,14,2,1,Reliever,Reliever,,R,,1-2,3-8,9-13,14-17,18-19,-,-,20,-,-
+488,KJP,KJP,Todd Redmond,Blue Jays,5,14,1,2,Reliever,Reliever,,R,,1-2,3-8,9-12,13-18,-,-,-,19-20,-,-
+489,KJP,KJP,Neftali Feliz,Rangers,5,14,3,1,Closer,Closer,,R,,1-2,3-6,7-9,10-18,19,-,-,-,-,20
+490,KJP,KJP,Neal Cotts,Rangers,5,14,3,1,Reliever,Reliever,,R,,1-2,3-9,10-11,12-15,16-17,18,-,19-20,-,-
+491,KJP,KJP,Scott Baker,Rangers,5,14,0,2,Reliever,Reliever,,R,,1-2,3-8,9-11,12-18,-,19,-,20,-,-
+492,KJP,KJP,Shawn Tolleson,Rangers,5,14,2,1,Reliever,Reliever,,R,,1-2,3-9,10-12,13-18,19,-,-,20,-,-
+493,KJP,KJP,Jake McGee,Rays,5,14,5,1,Closer,Closer,,R,,1-2,3-9,10-12,13-16,17,18-19,-,20,-,-
+494,KJP,KJP,Grant Balfour,Rays,5,14,2,1,Reliever,Reliever,,R,,1-2,3-8,9-11,12-15,16-18,19,-,20,-,-
+495,KJP,KJP,Brad Boxberger,Rays,5,14,4,1,Reliever,Reliever,,R,,1-2,3-13,14-15,16-17,18,19-20,-,-,-,-
+496,KJP,KJP,Joel Peralta,Rays,5,14,3,1,Reliever,Reliever,,R,,1-2,3-11,12,13-15,16,17-19,-,20,-,-
+497,KJP,KJP,Trevor Rosenthal,Cardinals,5,14,5,1,Closer,Closer,,R,,1-2,3-9,10-11,12-14,15-17,-,-,20,-,-
+498,KJP,KJP,Pat Neshek,Cardinals,5,14,5,1,Reliever,Reliever,,R,,1-2,3-7,8-10,11-16,-,17-20,-,-,-,-
+499,KJP,KJP,Seth Maness,Cardinals,5,14,3,1,Reliever,Reliever,,R,,1-2,3-6,7-12,13-17,-,18-19,-,20,-,-
+500,KJP,KJP,Carlos Martinez,Cardinals,5,14,3,1,Reliever,Reliever,,R,,1-2,3-8,9-12,13-15,16-17,18-19,-,20,-,-
+501,KJP,KJP,Sergio Romo,Giants,5,14,4,1,Reliever,Reliever,,R,,1-2,3-9,10-11,12-15,-,16-19,-,20,-,-
+502,KJP,KJP,Santiago Casilla,Giants,5,14,4,1,Closer,Closer,,R,,1-2,3-6,7-12,13-17,18,19-20,-,-,-,-
+503,KJP,KJP,Jean Machi,Giants,5,14,4,1,Reliever,Reliever,,R,,1-2,3-6,7-12,13-16,17,18-19,-,20,-,-
+504,KJP,KJP,Yusmeiro Petit,Giants,5,14,3,2,Reliever,Reliever,,R,,1-2,3-11,12-14,15-18,19,-,-,20,-,-
+505,KJP,KJP,Fernando Rodney,Mariners,5,14,5,1,Closer,Closer,,R,,1-2,3-8,9-11,12-14,15-16,17-19,-,20,-,-
+506,KJP,KJP,Tom Wilhelmsen,Mariners,5,14,3,2,Reliever,Reliever,,R,,1-2,3-8,9-14,15-18,19-20,-,-,-,-,-
+507,KJP,KJP,Danny Farquhar,Mariners,5,14,3,1,Reliever,Reliever,,R,,1-2,3-11,12-14,15-17,18,19,-,20,-,-
+508,KJP,KJP,Yoervis Medina,Mariners,5,14,4,1,Reliever,Reliever,,R,,1-2,3-9,10-13,14-16,17-19,-,-,20,-,-
+509,KJP,KJP,Joaquin Benoit,Padres,5,14,5,1,Closer,Closer,,R,,1-2,3-8,9-11,12-17,18,19,-,20,-,-
+510,KJP,KJP,Alex Torres,Padres,5,14,1,1,Reliever,Reliever,,R,,1-3,4-10,11-14,15-18,19,-,-,20,-,-
+511,KJP,KJP,Nick Vincent,Padres,5,14,2,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-17,-,18-19,-,20,-,-
+512,KJP,KJP,Dale Thayer,Padres,5,14,3,1,Reliever,Reliever,,R,,1-2,3-9,10-12,13-17,18,19,-,20,-,-
+513,KJP,KJP,Mark Melancon,Pirates,5,14,6,1,Closer,Closer,,R,,1-3,4-9,10-13,14-15,-,16-20,-,-,-,-
+514,KJP,KJP,Tony Watson,Pirates,5,14,5,1,Reliever,Reliever,,R,,1-2,3-7,8-12,13-16,-,17-20,-,-,-,-
+515,KJP,KJP,Jared Hughes,Pirates,5,14,3,1,Reliever,Reliever,,R,,1-2,3-5,6-13,14-18,19,20,-,-,-,-
+516,KJP,KJP,Justin Wilson,Pirates,5,14,3,1,Reliever,Reliever,,R,,1-3,4-10,11-13,14-15,16-18,19,-,20,-,-
+517,KJP,KJP,Jonathan Papelbon,Phillies,5,14,5,1,Closer,Closer,,R,,1-2,3-7,8-11,12-16,17,18-10,-,-,-,-
+518,KJP,KJP,Ken Giles,Phillies,5,14,5,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-18,19,-,-,20,-,-
+519,KJP,KJP,Antonio Bastardo,Phillies,5,14,2,1,Reliever,Reliever,,R,,1-2,3-11,12-13,14-16,17-19,-,-,20,-,-
+520,KJP,KJP,Jake Diekman,Phillies,5,14,3,1,Reliever,Reliever,,R,,1-2,3-12,13,14-15,16-18,19,-,20,-,-
+521,KJP,KJP,Sean Doolittle,Athletics,5,14,5,1,Closer,Closer,,R,,1-2,3-10,11,12-15,-,16-20,-,-,-,-
+522,KJP,KJP,Luke Gregerson,Athletics,5,14,4,1,Reliever,Reliever,,R,,1-3,4-8,9-13,14-17,-,18-19,-,20,-,-
+523,KJP,KJP,Dan Otero,Athletics,5,14,3,1,Reliever,Reliever,,R,,1-2,3-4,5-12,13-17,-,18-19,-,20,-,-
+524,KJP,KJP,Fernando Abad,Athletics,5,14,4,1,Reliever,Reliever,,R,,1-2,3-7,8-11,12-18,19,20,-,-,-,-
+525,KJP,KJP,David Robertson,Yankees,5,14,4,1,Closer,Closer,,R,,1-2,3-12,13,14-15,16-17,18-20,-,-,-,-
+526,KJP,KJP,Adam Warren,Yankees,5,14,5,1,Reliever,Reliever,,R,,1-2,3-7,8-10,11-15,16,17-19,-,20,-,-
+527,KJP,KJP,Dellin Betances,Yankees,5,14,5,1,Reliever,Reliever,,R,,1-2,3-11,12-14,15-17,18,19-20,-,-,-,-
+528,KJP,KJP,David Huff,Yankees,5,14,1,1,Reliever,Reliever,,R,,1-3,4-8,9-13,14-18,19-20,-,-,-,-,-
+529,KJP,KJP,Jenrry Mejia,Mets,5,14,3,1,Closer,Closer,,R,,1-2,3-10,11-13,14-16,17-18,19,-,20,-,-
+530,KJP,KJP,Jeurys Familia,Mets,5,14,5,1,Reliever,Reliever,,R,,1-2,3-7,8-12,13-15,16-17,18-19,-,20,-,-
+531,KJP,KJP,Carlos Torres,Mets,5,14,2,1,Reliever,Reliever,,R,,1-2,3-9,10-13,14-17,18-19,-,-,20,-,-
+532,KJP,KJP,Vic Black,Mets,5,14,4,1,Reliever,Reliever,,R,,1-2,3-8,9-12,13-16,17-19,-,-,20,-,-
+533,KJP,KJP,Glen Perkins,Twins,5,14,4,1,Closer,Closer,,R,,1-2,3-10,11-12,13-15,-,16-19,-,20,-,-
+534,KJP,KJP,Jared Burton,Twins,5,14,3,1,Reliever,Reliever,,R,,1-2,3-6,7-9,10-15,16-17,18-19,-,20,-,-
+535,KJP,KJP,Casey Fien,Twins,5,14,4,1,Reliever,Reliever,,R,,1-3,4-8,9-10,11-14,15,16-19,-,20,-,-
+536,KJP,KJP,Anthony Swarzak,Twins,5,14,0,2,Reliever,Reliever,,R,,1-2,3-6,7-11,12-18,19,-,-,20,-,-
+537,KJP,KJP,Francisco Rodriguez,Brewers,5,14,6,1,Closer,Closer,,R,,1-2,3-8,9-10,11-14,15,16-19,-,-,-,20
+538,KJP,KJP,Will Smith,Brewers,5,14,4,1,Reliever,Reliever,,R,,1-2,3-12,13,14,15-17,18-19,-,20,-,-
+539,KJP,KJP,Zach Duke,Brewers,5,14,2,1,Reliever,Reliever,,R,,1-2,3-11,12-15,16-18,19,20,-,-,-,-
+540,KJP,KJP,Marco Estrada,Brewers,5,14,2,2,Reliever,Reliever,,R,,1-2,3-7,8-10,11-18,-,-,-,19-20,-,-
+541,KJP,KJP,Steve Cishek,Marlins,5,14,4,1,Closer,Closer,,R,,1-2,3-12,13,14-15,16,17-19,-,20,-,-
+542,KJP,KJP,Mike Dunn,Marlins,5,14,3,1,Reliever,Reliever,,R,,1-2,3-11,12-13,14-16,17-18,19,-,20,-,-
+543,KJP,KJP,Bryan Morris,Marlins,5,14,3,1,Reliever,Reliever,,R,,1-2,3-7,8-14,15-18,19,-,-,20,-,-
+544,KJP,KJP,A.J. Ramos,Marlins,5,14,4,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-16,17-19,-,-,20,-,-
+545,KJP,KJP,Kenley Jansen,Dodgers,5,14,6,1,Closer,Closer,,R,,1-2,3-11,12,13-14,15,16-19,-,20,-,-
+546,KJP,KJP,Jamey Wright,Dodgers,5,14,1,1,Reliever,Reliever,,R,,1-2,3-8,9-14,15-17,18-19,-,-,20,-,-
+547,KJP,KJP,Brandon League,Dodgers,5,14,2,1,Reliever,Reliever,,R,,1-2,3-6,7-15,16-18,19,-,-,20,-,-
+548,KJP,KJP,J.P. Howell,Dodgers,5,14,5,1,Reliever,Reliever,,R,,1-2,3-7,8-12,13-15,16-18,19,-,20,-,-
+549,KJP,KJP,Huston Street,Angels,5,14,6,1,Closer,Closer,,R,,1-2,3-7,8-10,11-16,17,18-20,-,-,-,-
+550,KJP,KJP,Joe Smith,Angels,5,14,5,1,Reliever,Reliever,,R,,1-2,3-6,7-12,13-16,-,17-20,-,-,-,-
+551,KJP,KJP,Jason Grilli,Angels,5,14,4,1,Reliever,Reliever,,R,,1-2,3-9,10-11,11-14,15-16,17-19,-,20,-,-
+552,KJP,KJP,Kevin Jepsen,Angels,5,14,5,1,Reliever,Reliever,,R,,1-3,4-9,10-12,13-15,16-17,18-19,-,20,-,-
+553,KJP,KJP,Greg Holland,Royals,5,14,6,1,Closer,Closer,,R,,1-2,3-11,12-14,15-17,17,18-20,-,-,-,-
+554,KJP,KJP,Aaron Crow,Royals,5,14,2,1,Reliever,Reliever,,R,,1-2,3-6,7-11,12-16,17-18,-,-,19,-,20
+555,KJP,KJP,Wade Davis,Royals,5,14,6,1,Reliever,Reliever,,R,,1-2,3-11,12-14,15-17,18,19-20,-,-,-,-
+556,KJP,KJP,Kelvin Herrera,Royals,5,14,4,1,Reliever,Reliever,,R,,1-3,4-8,9-13,14-17,18-19,-,-,20,-,-
+557,KJP,KJP,Chad Qualls,Astros,5,14,2,1,Closer,Closer,,R,,1-2,3-8,9-13,14-17,-,18-19,-,20,-,-
+558,KJP,KJP,Tony Sipp,Astros,5,14,2,1,Reliever,Reliever,,R,,1-2,3-11,12-13,14-17,18-19,20,-,-,-,-
+559,KJP,KJP,Josh Fields,Astros,5,14,2,1,Reliever,Reliever,,R,,1-2,3-12,13,14-16,17,18-19,-,20,-,-
+560,KJP,KJP,Samuel Deduno,Astros,5,14,1,2,Reliever,Reliever,,R,,1-2,3-10,11-15,16-18,19,-,-,20,-,-
+561,KJP,KJP,Joe Nathan,Tigers,5,14,3,1,Closer,Closer,,R,,1-2,3-8,9-10,11-14,15-17,18-19,-,20,-,-
+562,KJP,KJP,Joba Chamberlain,Tigers,5,14,4,1,Reliever,Reliever,,R,,1-2,3-8,9-12,13-15,16-17,18-19,-,20,-,-
+563,KJP,KJP,Phil Coke,Tigers,5,14,1,1,Reliever,Reliever,,R,,1-2,3-7,8-13,14-17,18-19,-,-,20,-,-
+564,KJP,KJP,Al Alburquerque,Tigers,5,14,4,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-16,17-18,19-20,-,-,-,-
+565,KJP,KJP,LaTroy Hawkins,Rockies,5,14,3,1,Closer,Closer,,R,,1-2,3-5,6-10,11-16,17,18-19,-,20,-,-
+566,KJP,KJP,Adam Ottavino,Rockies,5,14,3,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-16,17,18-19,-,20,-,-
+567,KJP,KJP,Rex Brothers,Rockies,5,14,1,1,Reliever,Reliever,,R,,1-2,3-10,11-12,13-16,17-19,-,-,20,-,-
+568,KJP,KJP,Matt Belisle,Rockies,5,14,1,1,Reliever,Reliever,,R,,1-2,3-7,8-11,12-16,17,18-19,-,20,-,-
+569,KJP,KJP,Cody Allen,Indians,5,14,5,1,Closer,Closer,,R,,1-2,3-9,10-12,13-16,17-18,19,-,20,-,-
+570,KJP,KJP,Scott Atchison,Indians,5,14,4,1,Reliever,Reliever,,R,,1-2,3-6,7-13,14-16,-,17-19,-,20,-,-
+571,KJP,KJP,Bryan Shaw,Indians,5,14,5,1,Reliever,Reliever,,R,,1-3,4-7,8-11,12-15,16,17-19,-,20,-,-
+572,KJP,KJP,Marc Rzepczynski,Indians,5,14,3,1,Reliever,Reliever,,R,,1-2,3-9,10-14,15-17,18-19,-,-,20,-,-
+573,KJP,KJP,Aroldis Chapman,Reds,5,14,4,1,Closer,Closer,,R,,1-2,3-14,15,16-17,18-19,-,-,20,-,-
+574,KJP,KJP,Logan Ondrusek,Reds,5,14,0,1,Reliever,Reliever,,R,,1-2,3-10,11-13,14-17,18,-,-,19-20,-,-
+575,KJP,KJP,J.J. Hoover,Reds,5,14,1,1,Reliever,Reliever,,R,,1-2,3-11,12-13,14-17,18,-,-,19,-,20
+576,KJP,KJP,Sam LeCure,Reds,5,14,3,1,Reliever,Reliever,,R,,1-2,3-8,9-11,12-15,16-17,18-19,-,20,-,-
+577,KJP,KJP,Jake Petricka,White Sox,5,14,3,1,Closer,Closer,,R,,1-2,3-7,8-13,14-16,17-18,19,-,20,-,-
+578,KJP,KJP,Ronald Belisario,White Sox,5,14,2,1,Reliever,Reliever,,R,,1-2,3-7,8-12,13-15,16,17-19,-,20,-,-
+579,KJP,KJP,Zach Putnam,White Sox,5,14,4,1,Reliever,Reliever,,R,,1-2,3-7,8-13,14-17,18-19,20,-,-,-,-
+580,KJP,KJP,Daniel Webb,White Sox,5,14,1,1,Reliever,Reliever,,R,,1-2,3-9,10-14,15-17,18-19,-,-,20,-,-
+581,KJP,KJP,Hector Rondon,Cubs,5,14,6,1,Closer,Closer,,R,,1-2,3-8,9-11,12-14,15,16-20,-,-,-,-
+582,KJP,KJP,Pedro Strop,Cubs,5,14,4,1,Reliever,Reliever,,R,,1-2,3-10,11-14,15-17,18-19,-,-,20,-,-
+583,KJP,KJP,Justin Grimm,Cubs,5,14,2,1,Reliever,Reliever,,R,,1-2,3-9,10-13,14-16,17-18,19,-,20,-,-
+584,KJP,KJP,Brian Schlitter,Cubs,5,14,2,1,Reliever,Reliever,,R,,1-2,3-6,7-13,14-16,17-18,19,-,20,-,-
+585,KJP,KJP,Koji Uehara,Red Sox,5,14,5,1,Closer,Closer,,R,,1-2,3-9,10-11,12-15,-,16-19,-,20,-,-
+586,KJP,KJP,Edward Mujica,Red Sox,5,14,2,1,Reliever,Reliever,,R,,1-2,3-7,8-11,12-16,17,18,-,19-20,-,-
+587,KJP,KJP,Burke Badenhop,Red Sox,5,14,3,1,Reliever,Reliever,,R,,1-2,3-5,6-13,14-17,18,-,-,19-20,-,-
+588,KJP,KJP,Junichi Tazawa,Red Sox,5,14,4,1,Reliever,Reliever,,R,,1-2,3-9,10-12,13-16,17,18,-,19-20,-,-
+589,KJP,KJP,Zach Britton,Orioles,5,14,6,1,Closer,Closer,,R,,1-2,3-6,7-13,14-15,16-17,18-20,-,-,-,-
+590,KJP,KJP,Tommy Hunter,Orioles,5,14,4,1,Reliever,Reliever,,R,,1-2,3-6,7-12,13-16,-,17-19,-,20,-,-
+591,KJP,KJP,Darren O'Day,Orioles,5,14,4,1,Reliever,Reliever,,R,,1-2,3-9,10-13,14-17,18,19,-,20,-,-
+592,KJP,KJP,Andrew Miller,Orioles,5,14,4,1,Reliever,Reliever,,R,,1-2,3-13,14-15,16-17,18,19,-,20,-,-
+593,KJP,KJP,Craig Kimbrel,Braves,5,14,6,1,Closer,Closer,,R,,1-2,3-11,12-13,14-15,16-17,18-20,-,-,-,-
+594,KJP,KJP,David Carpenter,Braves,5,14,3,1,Reliever,Reliever,,R,,1-2,3-10,11-12,13-16,17,18-19,-,20,-,-
+595,KJP,KJP,Jordan Walden,Braves,5,14,4,1,Reliever,Reliever,,R,,1-2,3-11,12-13,14-16,17-19,20,-,-,-,-
+596,KJP,KJP,Anthony Varvaro,Braves,5,14,3,1,Reliever,Reliever,,R,,1-3,4-9,10-13,14-17,18,19,-,20,-,-
+597,KJP,KJP,Addison Reed,Diamondbacks,5,14,4,1,Closer,Closer,,R,,1-2,3-10,11,12-14,15,16-18,-,19,-,20
+598,KJP,KJP,Brad Ziegler,Diamondbacks,5,14,3,1,Reliever,Reliever,,R,,1-2,3-7,8-13,14-16,17-18,19,-,20,-,-
+599,KJP,KJP,Randall Delgado,Diamondbacks,5,14,0,1,Reliever,Reliever,,R,,1-2,3-12,13-14,15-18,19,-,-,20,-,-
+600,KJP,KJP,Oliver Perez,Diamondbacks,5,14,2,1,Reliever,Reliever,,R,,1-2,3-12,13-14,15-17,18-19,-,-,20,-,-

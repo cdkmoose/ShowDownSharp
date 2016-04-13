@@ -348,7 +348,10 @@ namespace DS.Showdown.SharedForms
         private void bullpenListView_ItemDrag(object sender, ItemDragEventArgs e)
         {
             Pitcher ptr = (Pitcher)bullpenListView.SelectedItems[0].Tag;
-            bullpenListView.DoDragDrop(ptr, DragDropEffects.Move);
+            if (ptr.PlayedThisGame == true)
+                MessageBox.Show(ptr.Name + "has already pitched in this game.", "Unavailable", MessageBoxButtons.OK);
+            else
+                bullpenListView.DoDragDrop(ptr, DragDropEffects.Move);
         }
 
         private void pitcherTextbox_DragEnter(object sender, DragEventArgs e)

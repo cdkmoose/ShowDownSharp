@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 using DS.Showdown.ObjectLibrary;
+using DS.Showdown.DbLibrary;
 
 namespace DS.Showdown.Engines
 {
@@ -741,8 +742,12 @@ namespace DS.Showdown.Engines
                 homeTeam.Losses++;
             }
 
+            DbUtils.StartTransaction();
+
             homeTeam.UpdateSeasonStats();
             visitingTeam.UpdateSeasonStats();
+
+            DbUtils.Commit();
 
             gameLog.Append("=================================================\r\n\r\n");
             gameLog.Append(result);
