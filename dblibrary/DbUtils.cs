@@ -10,6 +10,7 @@ namespace DS.Showdown.DbLibrary
 	public class DbUtils
 	{
 		static SQLiteConnection conn = null;
+        static SQLiteTransaction trans = null;
         static string path = null;
         static string connString = null;
 
@@ -25,17 +26,38 @@ namespace DS.Showdown.DbLibrary
 
         public static void StartTransaction()
         {
-            ExecuteNonQuery("begin transaction;");
+            if (conn != null)
+            {
+                conn.Open();
+                trans = conn.BeginTransaction(IsolationLevel.ReadCommitted);
+                //ExecuteNonQuery("begin transaction;");
+                System.Diagnostics.Debug.WriteLine("Start Transaction");
+            }
         }
 
         public static void Commit()
         {
-            ExecuteNonQuery("commit transaction;");
+            if (trans != null)
+            {
+                trans.Commit();
+                trans.Dispose();
+                //ExecuteNonQuery("commit transaction;");
+                System.Diagnostics.Debug.WriteLine("End Transaction");
+                conn.Close();
+            }
         }
 
         public static void Rollback()
         {
-            ExecuteNonQuery("rollback transaction;");
+            if (trans != null)
+            {
+                trans.Rollback();
+                trans.Dispose();
+                //ExecuteNonQuery("rollback transaction;");
+                System.Diagnostics.Debug.WriteLine("Rollback Transaction");
+
+                conn.Close();
+            }
         }
 
         public static SQLiteConnection GetConnection()
@@ -64,7 +86,9 @@ namespace DS.Showdown.DbLibrary
                     }
                 }
 
+
 			}
+
 
 			return conn;
 		}
@@ -103,8 +127,7 @@ namespace DS.Showdown.DbLibrary
             {
 
                 string msg = exc.Message;
-
-                // Catching exceptions is for communists
+                System.Diagnostics.Debug.WriteLine(msg);
 
             }
 
@@ -112,9 +135,7 @@ namespace DS.Showdown.DbLibrary
             {
                  
                 string msg = ex.Message;
-
-                // Catching exceptions is for communists
-
+                System.Diagnostics.Debug.WriteLine(msg);
             }
             finally
             {
@@ -128,13 +149,18 @@ namespace DS.Showdown.DbLibrary
 		public static int ExecuteNonQuery(string sql)
 		{
 			int rowsUpdated = 0;
+            bool needsClose = false;
 
 			try
 			{
 
 				SQLiteConnection cnn = GetConnection();
 
-				cnn.Open();
+                if (cnn.State != ConnectionState.Open)
+                {
+                    needsClose = true;
+                    cnn.Open();
+                }
 
 				SQLiteCommand mycommand = new SQLiteCommand(cnn);
 
@@ -142,23 +168,20 @@ namespace DS.Showdown.DbLibrary
 
 				rowsUpdated = mycommand.ExecuteNonQuery();
 
-				cnn.Close();
+                if (needsClose)
+				    cnn.Close();
 
 			}
 			catch (SQLiteException exc)
 			{
 				string msg = exc.Message;
-
-				// Catching exceptions is for communists
-
-			}
+                System.Diagnostics.Debug.WriteLine(msg);
+            }
 			catch (Exception ex)
 			{
 				string msg = ex.Message;
-
-				// Catching exceptions is for communists
-
-			}
+                System.Diagnostics.Debug.WriteLine(msg);
+            }
 
 			return rowsUpdated;
 

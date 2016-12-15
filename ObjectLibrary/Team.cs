@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Diagnostics;
 using System.Text;
 
 using DS.Showdown.DbLibrary;
@@ -572,12 +573,11 @@ namespace DS.Showdown.ObjectLibrary
             }
         }
 
-
+        
 
 		public void UpdateSeasonStats()
 		{
 			// update all batter statistics
-
 			foreach (Batter btr in batterList)
 			{
 				if (btr.PlayedThisGame)
@@ -593,7 +593,7 @@ namespace DS.Showdown.ObjectLibrary
 				if (ptr.PlayedThisGame)
 				{
 					ptr.UpdateSeasonStats(true);
-				}
+                }
 			}
 
 			SaveSeasonStats();
